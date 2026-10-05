@@ -6,7 +6,11 @@
 
 ## Download your course materials
 
-[![GET THE WORKBOOK](assets/download-workbook.svg)](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/learner-workbook.pdf) [![GET THE SLIDES](assets/download-slides.svg)](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/course-deck.pdf) [![GET ALL FILES](assets/download-files.svg)](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/teaching-kit.zip)
+<p>
+  <a href="https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/learner-workbook.pdf"><img src="assets/download-workbook.svg" width="260" height="91" alt="GET THE WORKBOOK"></a>
+  <a href="https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/course-deck.pdf"><img src="assets/download-slides.svg" width="260" height="91" alt="GET THE SLIDES"></a>
+  <a href="https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/teaching-kit.zip"><img src="assets/download-files.svg" width="260" height="91" alt="GET ALL FILES"></a>
+</p>
 
 | Start with this | Use it for |
 | --- | --- |
