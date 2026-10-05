@@ -4,7 +4,7 @@ TEACHING SCRIPT
 This session follows a fictional coffee campaign through reusable skills and a specialist agent team. We will build draft ads, inspect an offer page, and coordinate social content before reviewing a lead-generation package. You will adapt one ad during the guided exercise. Every coffee product and campaign figure belongs to our classroom example. Human review governs the publishing decision throughout the lesson.
 
 CLASSROOM ACTION
-Open the Google Slides deck and the teaching-kit folder. Keep the rehearsal pages available in browser tabs.
+Open the Google Slides deck and the course-files project folder. Keep the rehearsal pages available in browser tabs.
 
 EXPECTED RESULT
 Learners can explain the distinction and identify the next step.
@@ -150,7 +150,7 @@ TEACHING SCRIPT
 The project folder gives the team a common source. Brand context describes the company and offer. AGENTS.md supplies project instructions and routing. Role definitions describe specialist responsibility. Skill files describe repeatable processes. Campaign folders hold outputs. The hidden folders travel inside the ZIP, so confirm extraction preserved them. Work Cloud can use attached sources, while local Codex discovers project files from its primary folder.
 
 CLASSROOM ACTION
-Open the extracted teaching-kit folder. Ask prompt 01 to confirm paths and missing inputs. Show one skill file and one agent definition.
+Open the extracted course-files project folder. Ask prompt 01 to confirm paths and missing inputs. Show one skill file and one agent definition.
 
 RECORDING CHECKLIST
 Suggested clip length 90 seconds.

@@ -151,7 +151,7 @@ Ask the app to show a local preview using its supported preview feature. Keep th
 
 ### Workbook page 7
 
-Download the teaching-kit ZIP and extract its contents. Preserve hidden .agents and .codex folders. Open teaching-kit as the primary local project folder in Codex, or attach the named files in Work.
+Download the teaching-kit ZIP and extract its contents. Inside ai-marketing-course, open course-files as the primary local project folder in Codex. Preserve hidden .agents and .codex folders inside course-files. Attach the named source files when using Work.
 
 | Folder or file | Use it for |
 | --- | --- |
@@ -762,7 +762,7 @@ Check plan, region, rollout, app update, and administrator access against the cu
 
 Skills are absent
 
-Confirm ZIP extraction preserved .agents/skills/ and each SKILL.md. Open teaching-kit as the primary local project folder. In Work Cloud, attach the skill file and explicitly request its supplied process.
+Confirm ZIP extraction preserved .agents/skills/ and each SKILL.md. Open course-files as the primary local project folder. In Work Cloud, attach the skill file and explicitly request its supplied process.
 
 Agent roles are absent
 
@@ -778,7 +778,7 @@ Check the permitted account connection and destination. Demonstrate the handoff 
 
 A page image or PDF fails
 
-Ask the app to serve a local preview from the teaching-kit root. Check the relative asset and PDF paths. Test a malformed address and learner@example.com, then open the revealed guide link.
+Ask the app to serve a local preview from the course-files root. Check the relative asset and PDF paths. Test a malformed address and learner@example.com, then open the revealed guide link.
 
 Sites is unavailable
 

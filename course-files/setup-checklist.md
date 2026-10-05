@@ -14,7 +14,7 @@ Slack provides the messaging handoff. Connect it through the Dot profile and use
 Learners need an account with the relevant Work or Codex capability and access to the supplied files. Check access before class. Learners without a visible Dot can observe the instructor's Dot demonstration and complete the ad exercise in an available project chat. That path teaches the ad skill while Dot orchestration remains an instructor demonstration.
 
 ## Before class
-Unzip teaching-kit including the hidden .agents and .codex folders. Open teaching-kit as the primary local project folder, or attach the necessary sources in Work. Ask the app to read AGENTS.md and confirm skill discovery. Confirm the six role names and file paths. Test one text-only ad run, then open both rehearsal pages and the guide PDF. Confirm Slack, Notion, and Sites availability separately. Use the rehearsal path if a feature or connector is unavailable.
+Extract the teaching-kit ZIP and open its ai-marketing-course/course-files folder, including the hidden .agents and .codex folders. Open course-files as the primary local project folder, or attach the necessary sources in Work. Ask the app to read AGENTS.md and confirm skill discovery. Confirm the six role names and file paths. Test one text-only ad run, then open both rehearsal pages and the guide PDF. Confirm Slack, Notion, and Sites availability separately. Use the rehearsal path if a feature or connector is unavailable.
 
 ## Official references
 https://learn.chatgpt.com/docs/dots#access

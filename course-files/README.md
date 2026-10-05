@@ -20,7 +20,13 @@ Open this folder as the primary project for local Codex. In Work, attach the fol
 
 ## Preview the campaign examples
 
-Open the offer page's `index.html` in your browser to inspect its layout. Open the guide PDF directly to review its ten pages. For the download-page form and relative links, use the local preview instructions in the downloaded teaching kit. The sample form accepts an example address and reveals a PDF link, with production storage outside this classroom example.
+Open the offer page's `index.html` in your browser to inspect its layout. Open the guide PDF directly to review its ten pages. For the download-page form and relative links, ask Codex to serve a local preview using the prompt below. The sample form accepts an example address and reveals a PDF link, with production storage outside this classroom example.
+
+Open course-files in Codex and paste this preview request. The two page paths below begin inside that project folder.
+
+```text
+Start a local preview from this course-files project folder. Serve only these supplied course files on localhost. Open campaigns/discovery-box/rehearsal/site/index.html and campaigns/lead-magnet/rehearsal/site/index.html. Keep the browser preview local. Confirm the guide link resolves. Test a malformed address and learner@example.com in the classroom form, then report validation results. Keep deployment and address storage outside this preview.
+```
 
 ## Save your practice results
 

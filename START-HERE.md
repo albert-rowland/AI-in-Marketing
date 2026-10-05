@@ -6,7 +6,7 @@
 
 Download the [learner workbook](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/learner-workbook.pdf) for the complete course. Download the [teaching kit](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/teaching-kit.zip) when you want to try the prompts yourself. On GitHub, the green Code menu also offers Download ZIP for the whole repository.
 
-Extract the downloaded ZIP into a folder you can find. The project contains `brand`, `briefs`, `data`, `agents`, `.agents`, and `.codex`. Open the folder containing `AGENTS.md` as your local Codex project. In Work, attach the folder or the specific files a lesson requests.
+Extract the downloaded ZIP into a folder you can find. Inside ai-marketing-course, open course-files as your project folder. This project contains `brand`, `briefs`, `data`, `agents`, `.agents`, and `.codex`. Open the folder containing `AGENTS.md` as your local Codex project. In Work, attach the folder or the specific files a lesson requests.
 
 ## 2 · Check your access
 

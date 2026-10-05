@@ -12,7 +12,7 @@ This session follows a fictional coffee campaign through reusable skills and a s
 
 ### Classroom Action
 
-Open the Google Slides deck and the teaching-kit folder. Keep the rehearsal pages available in browser tabs.
+Open the Google Slides deck and the course-files project folder. Keep the rehearsal pages available in browser tabs.
 
 ### Expected Result
 
@@ -180,7 +180,7 @@ The project folder gives the team a common source. Brand context describes the c
 
 ### Classroom Action
 
-Open the extracted teaching-kit folder. Ask prompt 01 to confirm paths and missing inputs. Show one skill file and one agent definition.
+Open the extracted course-files project folder. Ask prompt 01 to confirm paths and missing inputs. Show one skill file and one agent definition.
 
 ### Recording Checklist
 
