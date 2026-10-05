@@ -1,0 +1,1 @@
+Read this Copper Cup teaching-kit folder as the source for a fictional marketing project. Inspect brand/context.md, AGENTS.md, and the two briefs. Confirm the product, audience, offer, skill paths, and output structure. Report missing inputs before generating campaign assets. Keep the supplied rehearsal outputs separate from new runs.

@@ -1,0 +1,1 @@
+Review the project agent roles and skills. Keep AGENTS.md concise and verify its routing distinguishes repeatable skill tasks from specialist judgment. Require an explicit coordinated-campaign request for delegation, named outputs for specialists, and a merged review before handoff. Preserve the current external-action approval gates.

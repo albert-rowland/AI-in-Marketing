@@ -1,0 +1,242 @@
+[
+  {
+    "slide": 4,
+    "prompt": 2,
+    "recording_file": "02-dot-setup.mp4",
+    "seconds": 30,
+    "checklist": "Open ChatGPT with your attached project. Paste Prompt 02 into your project. Show the confirmed project path and available connections.",
+    "expected_result": "Project role, available connections, and clear review boundaries.",
+    "teaching_minutes": 1,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 7,
+    "prompt": 1,
+    "recording_file": "01-project-setup.mp4",
+    "seconds": 90,
+    "checklist": "Open the selected project folder. Paste Prompt 01 into your project. Show brand/context.md, the briefs, roles, and skills.",
+    "expected_result": "A project folder with brand context, briefs, roles, skills, and campaign outputs.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 8,
+    "prompt": 3,
+    "recording_file": "03-create-ad-skill.mp4",
+    "seconds": 75,
+    "checklist": "Paste Prompt 03 in your project task. Open the resulting skill instructions in SKILL.md. Point to its inputs, outputs, and review checks.",
+    "expected_result": "A reusable ad skill with its frontmatter and completion checks.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 9,
+    "prompt": 4,
+    "recording_file": "04-run-ad-skill.mp4",
+    "seconds": 90,
+    "checklist": "Paste Prompt 04 into your project. Cut past generation waiting time. Open the three concepts and their images, prompts, alt text, and review checklist.",
+    "expected_result": "Three ad concepts and an artwork review package.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 11,
+    "prompt": 5,
+    "recording_file": "05-create-website-skill.mp4",
+    "seconds": 60,
+    "checklist": "Paste Prompt 05 into your project. Open the website skill. Highlight offer consistency, source files, and the human launch decision.",
+    "expected_result": "A website skill with review and preview checks.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 12,
+    "prompt": 6,
+    "recording_file": "06-dot-offer-page.mp4",
+    "seconds": 90,
+    "checklist": "Paste Prompt 06 to your project Dot. Show the delegated website task. Open the local page and click its product-detail CTA.",
+    "expected_result": "An offer page preview and editable source files.",
+    "teaching_minutes": 4,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 15,
+    "prompt": 7,
+    "recording_file": "07-create-growth-agent.mp4",
+    "seconds": 60,
+    "checklist": "Paste Prompt 07 into your project. Open the resulting role instructions. Point to ownership, inputs, outputs, and spending boundaries.",
+    "expected_result": "A named strategy role with clear responsibility.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 16,
+    "prompt": 8,
+    "recording_file": "08-growth-goal.mp4",
+    "seconds": 90,
+    "checklist": "Paste Prompt 08 into your project. Show the metric findings. Open the strategy and experiment brief. Explain one hypothesis and its measurement.",
+    "expected_result": "Metric findings, a strategy, and an experiment brief.",
+    "teaching_minutes": 3,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 17,
+    "prompt": 9,
+    "recording_file": "09-create-content-agent.mp4",
+    "seconds": 30,
+    "checklist": "Paste Prompt 09 into your project. Open the content role. Show how copy, visual direction, and scheduling hand off for review.",
+    "expected_result": "A content role with traceable source outputs.",
+    "teaching_minutes": 1,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 18,
+    "prompt": 10,
+    "recording_file": "10-slack-social-handoff.mp4",
+    "seconds": 90,
+    "checklist": "Open your own connected Dot channel. Paste Prompt 10 only when that classroom destination is approved. Cut generation waiting time. Show the six draft post folders and review PDF.",
+    "expected_result": "Six post folders, a review PDF, and a draft schedule.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 19,
+    "prompt": 11,
+    "recording_file": "11-calendar-review.mp4",
+    "seconds": 75,
+    "checklist": "Paste Prompt 11 into your project. Show the missing date and time-zone questions. Open the schedule proposal. End before a calendar write.",
+    "expected_result": "A schedule proposal with the missing inputs identified.",
+    "teaching_minutes": 3,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 20,
+    "prompt": 12,
+    "recording_file": "12-update-routing.mp4",
+    "seconds": 60,
+    "checklist": "Paste Prompt 12 into your project. Open the project routing instructions in AGENTS.md. Trace one ad request and one multi-role campaign through the routing rules.",
+    "expected_result": "Routing instructions with output paths and a final reviewer.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 22,
+    "prompt": 13,
+    "recording_file": "13-lead-magnet-team.mp4",
+    "seconds": 120,
+    "checklist": "Paste Prompt 13 into your project. Cut generation waiting time. Show the metric findings, guide PDF, and download page. Test a malformed address, then learner@example.com, and open the guide.",
+    "expected_result": "A ten-page guide, cover, metric findings, and local form preview.",
+    "teaching_minutes": 3,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 24,
+    "prompt": 15,
+    "recording_file": "15-review-package.mp4",
+    "seconds": 30,
+    "checklist": "Paste Prompt 15 with the supplied review package. Show a specific finding and its source. Explain the revision before considering launch.",
+    "expected_result": "A review checklist with specific evidence and revisions.",
+    "teaching_minutes": 1,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  },
+  {
+    "slide": 25,
+    "prompt": 16,
+    "recording_file": "16-sites-deployment-plan.mp4",
+    "seconds": 30,
+    "checklist": "Paste Prompt 16 into your project. Open the deployment proposal. Identify production integrations and requested approval. End the recording before publishing.",
+    "expected_result": "A deployment proposal and an approval checkpoint.",
+    "teaching_minutes": 1,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226
+  }
+]

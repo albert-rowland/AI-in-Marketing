@@ -1,0 +1,1 @@
+Use the campaign-review skill to inspect the new campaign outputs. Check offer consistency, supported claims, readable visuals, alt text, mobile layout, PDF links, and the metric denominators. Return a review checklist with evidence, defects, and required decisions. Keep scheduling, sending, deployment, and production lead collection as separate approvals.

@@ -1,0 +1,1 @@
+Read agents/content_creator.md and the corresponding .codex/agents/content_creator.toml. Verify the local Codex definition or use the Markdown role as specialist instructions in Work. Confirm the output structure includes six post folders, copy, visual briefs, prompts, alt text, and a draft schedule.

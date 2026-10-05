@@ -1,0 +1,1 @@
+Read the complete website skill definition and design references. Create or verify the reusable website skill with those requirements. Keep the supplied skill name. Confirm a responsive page, a local preview, and form testing form part of its completion criteria.

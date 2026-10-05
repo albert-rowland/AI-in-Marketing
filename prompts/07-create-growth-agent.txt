@@ -1,0 +1,1 @@
+Read agents/growth_strategist.md and the corresponding .codex/agents/growth_strategist.toml. In a local Codex project, verify the TOML definition loads. In ChatGPT Work, use the Markdown role as specialist instructions for an explicit delegated task. Confirm its role, inputs, output, and approval boundary. Keep model settings inherited from the parent.

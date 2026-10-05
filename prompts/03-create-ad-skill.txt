@@ -1,0 +1,1 @@
+Read .agents/skills/albert-copper-cup-ad-creative/SKILL.md as the required skill specification. Create or verify that reusable project skill without changing its name or scope. Confirm it appears in the available skill interface. Leave existing files intact when the supplied definition already satisfies the specification.
