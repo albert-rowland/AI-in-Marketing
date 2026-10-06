@@ -29,15 +29,15 @@ Record at 1920 by 1080. Hide credentials, personal messages, account details, an
 | 09 | 04 | 90 seconds | `04-run-ad-skill.mp4` |
 | 11 | 05 | 60 seconds | `05-create-website-skill.mp4` |
 | 12 | 06 | 90 seconds | `06-dot-offer-page.mp4` |
-| 15 | 07 | 60 seconds | `07-create-growth-agent.mp4` |
-| 16 | 08 | 90 seconds | `08-growth-goal.mp4` |
-| 17 | 09 | 30 seconds | `09-create-content-agent.mp4` |
-| 18 | 10 | 90 seconds | `10-slack-social-handoff.mp4` |
-| 19 | 11 | 75 seconds | `11-calendar-review.mp4` |
-| 20 | 12 | 60 seconds | `12-update-routing.mp4` |
-| 22 | 13 | 120 seconds | `13-lead-magnet-team.mp4` |
-| 24 | 15 | 30 seconds | `15-review-package.mp4` |
-| 25 | 16 | 30 seconds | `16-sites-deployment-plan.mp4` |
+| 16 | 07 | 60 seconds | `07-create-growth-agent.mp4` |
+| 17 | 08 | 90 seconds | `08-growth-goal.mp4` |
+| 18 | 09 | 30 seconds | `09-create-content-agent.mp4` |
+| 20 | 10 | 90 seconds | `10-slack-social-handoff.mp4` |
+| 21 | 11 | 75 seconds | `11-calendar-review.mp4` |
+| 22 | 12 | 60 seconds | `12-update-routing.mp4` |
+| 24 | 13 | 120 seconds | `13-lead-magnet-team.mp4` |
+| 26 | 15 | 30 seconds | `15-review-package.mp4` |
+| 29 | 16 | 30 seconds | `16-sites-deployment-plan.mp4` |
 
 ### Slide 04 · Prompt 02
 
@@ -75,55 +75,55 @@ Paste Prompt 06 to your project Dot. Show the delegated website task. Open the l
 
 Confirm the expected result before recording ends. An offer page preview and editable source files.
 
-### Slide 15 · Prompt 07
+### Slide 16 · Prompt 07
 
 Paste Prompt 07 into your project. Open the resulting role instructions. Point to ownership, inputs, outputs, and spending boundaries.
 
 Confirm the expected result before recording ends. A named strategy role with clear responsibility.
 
-### Slide 16 · Prompt 08
+### Slide 17 · Prompt 08
 
 Paste Prompt 08 into your project. Show the metric findings. Open the strategy and experiment brief. Explain one hypothesis and its measurement.
 
 Confirm the expected result before recording ends. Metric findings, a strategy, and an experiment brief.
 
-### Slide 17 · Prompt 09
+### Slide 18 · Prompt 09
 
 Paste Prompt 09 into your project. Open the content role. Show how copy, visual direction, and scheduling hand off for review.
 
 Confirm the expected result before recording ends. A content role with traceable source outputs.
 
-### Slide 18 · Prompt 10
+### Slide 20 · Prompt 10
 
 Open your own connected Dot channel. Paste Prompt 10 only when that classroom destination is approved. Cut generation waiting time. Show the six draft post folders and review PDF.
 
 Confirm the expected result before recording ends. Six post folders, a review PDF, and a draft schedule.
 
-### Slide 19 · Prompt 11
+### Slide 21 · Prompt 11
 
 Paste Prompt 11 into your project. Show the missing date and time-zone questions. Open the schedule proposal. End before a calendar write.
 
 Confirm the expected result before recording ends. A schedule proposal with the missing inputs identified.
 
-### Slide 20 · Prompt 12
+### Slide 22 · Prompt 12
 
 Paste Prompt 12 into your project. Open the project routing instructions in AGENTS.md. Trace one ad request and one multi-role campaign through the routing rules.
 
 Confirm the expected result before recording ends. Routing instructions with output paths and a final reviewer.
 
-### Slide 22 · Prompt 13
+### Slide 24 · Prompt 13
 
 Paste Prompt 13 into your project. Cut generation waiting time. Show the metric findings, guide PDF, and download page. Test a malformed address, then learner@example.com, and open the guide.
 
 Confirm the expected result before recording ends. A ten-page guide, cover, metric findings, and local form preview.
 
-### Slide 24 · Prompt 15
+### Slide 26 · Prompt 15
 
 Paste Prompt 15 with the supplied review package. Show a specific finding and its source. Explain the revision before considering launch.
 
 Confirm the expected result before recording ends. A review checklist with specific evidence and revisions.
 
-### Slide 25 · Prompt 16
+### Slide 29 · Prompt 16
 
 Paste Prompt 16 into your project. Open the deployment proposal. Identify production integrations and requested approval. End the recording before publishing.
 

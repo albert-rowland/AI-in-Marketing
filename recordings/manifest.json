@@ -13,7 +13,8 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p4"
   },
   {
     "slide": 7,
@@ -29,7 +30,8 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p7"
   },
   {
     "slide": 8,
@@ -45,7 +47,8 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p8"
   },
   {
     "slide": 9,
@@ -61,7 +64,8 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p9"
   },
   {
     "slide": 11,
@@ -77,7 +81,8 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p11"
   },
   {
     "slide": 12,
@@ -93,10 +98,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p12"
   },
   {
-    "slide": 15,
+    "slide": 16,
     "prompt": 7,
     "recording_file": "07-create-growth-agent.mp4",
     "seconds": 60,
@@ -109,10 +115,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p15"
   },
   {
-    "slide": 16,
+    "slide": 17,
     "prompt": 8,
     "recording_file": "08-growth-goal.mp4",
     "seconds": 90,
@@ -125,10 +132,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p16"
   },
   {
-    "slide": 17,
+    "slide": 18,
     "prompt": 9,
     "recording_file": "09-create-content-agent.mp4",
     "seconds": 30,
@@ -141,10 +149,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p17"
   },
   {
-    "slide": 18,
+    "slide": 20,
     "prompt": 10,
     "recording_file": "10-slack-social-handoff.mp4",
     "seconds": 90,
@@ -157,10 +166,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p18"
   },
   {
-    "slide": 19,
+    "slide": 21,
     "prompt": 11,
     "recording_file": "11-calendar-review.mp4",
     "seconds": 75,
@@ -173,10 +183,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p19"
   },
   {
-    "slide": 20,
+    "slide": 22,
     "prompt": 12,
     "recording_file": "12-update-routing.mp4",
     "seconds": 60,
@@ -189,10 +200,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p20"
   },
   {
-    "slide": 22,
+    "slide": 24,
     "prompt": 13,
     "recording_file": "13-lead-magnet-team.mp4",
     "seconds": 120,
@@ -205,10 +217,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p22"
   },
   {
-    "slide": 24,
+    "slide": 26,
     "prompt": 15,
     "recording_file": "15-review-package.mp4",
     "seconds": 30,
@@ -221,10 +234,11 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p24"
   },
   {
-    "slide": 25,
+    "slide": 29,
     "prompt": 16,
     "recording_file": "16-sites-deployment-plan.mp4",
     "seconds": 30,
@@ -237,6 +251,7 @@
       "width_pt": 678,
       "height_pt": 381.375
     },
-    "prompt_width_pt": 226
+    "prompt_width_pt": 226,
+    "nativeSlideId": "p25"
   }
 ]

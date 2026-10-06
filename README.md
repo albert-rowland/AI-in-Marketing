@@ -31,6 +31,10 @@
 | 🤝 **05 · Run a coordinated campaign** | Give specialists separate tasks and review their combined outputs. | [Start lesson 5](lessons/05-run-a-coordinated-campaign.md) |
 | ✅ **06 · Practice and review** | Complete the ten-minute exercise and plan your next campaign. | [Start lesson 6](lessons/06-practice-and-review.md) |
 
+## Give your agents clear operating boundaries
+
+The deck adds four Copper Cup examples covering lasting roles, scoped permissions, varied rehearsal, and evidence for expanding autonomy. [Open the operating guide and optional follow-up prompts](docs/agent-operating-guide.md). The learner workbook includes these concepts and four copyable follow-ups on pages 34 through 37.
+
 ## Choose your route
 
 **Learner route.** Follow the workbook or the six linked lesson guides. Each prompt explains where to paste it, which files to provide, the output to expect, and the check to complete before continuing.
@@ -55,4 +59,4 @@ Keep the classroom outputs as drafts and local previews. Review any proposed sch
 
 The teaching order adapts [Grace Leung's original tutorial](https://www.youtube.com/watch?v=BzS93V2zFTg). This course uses a fictional coffee company, new artwork, comic styling, and supplied practice data. [Read the sources and adaptation notes](course-files/sources.md).
 
-Course materials were prepared on October 4, 2026. Refresh account requirements and product instructions before teaching another session.
+Course materials were prepared on October 4, 2026, with lesson concepts added on October 6, 2026. Account requirements retain their October 4 source-check date. Refresh account requirements and product instructions before teaching another session.

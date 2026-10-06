@@ -24,3 +24,7 @@ Use the lesson guides for app destinations, required files, output checks, and n
 | 16 | [sites deployment plan ](16-sites-deployment-plan.txt) | [Lesson 6](../lessons/06-practice-and-review.md) |
 
 Change the Dot name if you use your own assistant. For prompt 11, supply your own start date and time zone. Preserve the brand and offer during the guided exercise.
+
+## Optional follow-up prompts
+
+[Open the operating guide](../docs/agent-operating-guide.md) for four additional copyable prompts. Use these after the numbered lesson sequence to define the role, review permissions, plan rehearsal, and assess one autonomy expansion.

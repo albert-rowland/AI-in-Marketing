@@ -2,7 +2,7 @@
 
 A 60-minute beginner workshop with a guided exercise.
 
-Version dated October 4, 2026.
+Version dated October 6, 2026.
 
 ## Start here
 
@@ -30,6 +30,7 @@ Your route through the workbook
 | Review, next steps, and troubleshooting | 28-29 |
 | Sources and credits | 30 |
 | Complete campaign briefs and metric definitions | 31-33 |
+| Operating boundaries and four follow-ups | 34-37 |
 
 Choose your classroom path
 
@@ -885,3 +886,93 @@ CTR = clicks / impressions × 100.Lead conversion = leads / landing_visits × 10
 Use the stated denominator for each metric. Report an undefined value when a denominator equals zero. Attribute orders consistently before comparing cost per order. These rows lack randomized assignment and a common campaign objective, so they support a test hypothesis rather than a causal finding. Revenue, profit, and ROAS require additional data.
 
 [Open the original source file](https://github.com/albert-rowland/AI-in-Marketing/blob/main/course-files/data/metric-definitions.md)
+
+## Give each agent a lasting role
+
+### Workbook page 34
+
+Use the Growth Strategist as a lasting role across campaign assignments. A new brief names the current task, while the role defines permitted choices and completion evidence.
+
+| Field | Copper Cup example |
+| --- | --- |
+| Owns | A source-backed growth plan. |
+| Inputs | Brief, brand context, and synthetic sample data. |
+| May | Review sources, compare data, and draft tests. |
+| Asks before | Sending, publication, spending, deletion, or access changes. |
+| When unsure | Flag missing evidence, conflicting instructions, or missing access. |
+| Done when | Supported claims, stated gaps, a bounded test, and saved output paths. |
+
+Optional follow-up A
+
+After prompt 07, paste this into your selected course-files project task. Review the returned role contract before using it.
+
+```text
+Read agents/growth_strategist.md, brand/context.md, and briefs/discovery-box-campaign.md. Draft a six-field role contract for the Growth Strategist with headings OWNS, INPUTS, MAY, ASKS BEFORE, WHEN UNSURE, DONE WHEN. Separate lasting responsibilities from the current campaign assignment. Permit source review, sample-data analysis, and draft creation within the project. Require specific approval before external sends, publication, spending, deletion, or permission changes. Resolve routine choices within the brief and record assumptions. Escalate missing source evidence, conflicting instructions, or missing access. Define completion through supported claims, stated gaps, a bounded test proposal, and saved output paths. Return the contract for review without changing files or permissions.
+```
+
+## Limit access to the campaign’s needs
+
+### Workbook page 35
+
+Connect only the files and systems required by the campaign. Permission to prepare a draft leaves external sending, publication, spending, deletion, and access changes awaiting specific approval.
+
+| Action | Permission scope |
+| --- | --- |
+| Read and draft | Read approved sources and prepare six social drafts inside the project. |
+| Approved internal update | Name the calendar, fields, account, and approved write before updating entries. |
+| External or consequential action | Approve the complete message, audience, launch destination, or spending limit before execution. |
+
+Reversibility helps planning, while privacy and audience also affect permission. Approve the classroom account, channel, and complete message before the Slack demonstration.
+
+Optional follow-up B
+
+After preparing social content, paste this into your project task and review the permission plan.
+
+```text
+Read the Copper Cup campaign brief and the current role instructions. Return a permission plan with three sections covering actions permitted within the project, internal updates needing a named destination and approved fields, and external or consequential actions awaiting specific approval. Include preparing six social drafts, proposing Notion calendar entries, sending a Slack message, publishing a page, and spending campaign funds. State the required account, destination, content, budget limit if relevant, and undo method for each proposed action. Keep all sends, updates, launches, spending, deletion, and permission changes pending until their scope is approved. Flag private data and audience changes even when an action can be reversed. Return the plan without executing it.
+```
+
+## Rehearse, repair, and retest
+
+### Workbook page 36
+
+Observe an initial draft, repair the instruction or handoff behind a failure, then retest a different campaign case. These stages organize rehearsal and provide no automatic permission increase.
+
+| Stage | Copper Cup check |
+| --- | --- |
+| Observe | Record unsupported guesses, missing inputs, and human corrections. |
+| Repair | Update the instruction or handoff causing the repeated failure. |
+| Retest | Use a temporary case with missing shipping information or an unsupported health claim. |
+
+Preserve approved source files. An accepted result states missing information, holds unsupported claims, and respects the permission scope. Track accepted results, corrections, review loops, time, and cost when available.
+
+Optional follow-up C
+
+After prompt 15, paste this into your project task to prepare a test plan and blank run log.
+
+```text
+Use the supplied fictional Copper Cup context and approved campaign brief. Draft a rehearsal plan for the Growth Strategist with three stages that observe an initial draft, repair a repeatable instruction or handoff failure, and retest with a different campaign case. Include one case with missing shipping information and one request containing an unsupported health claim. Define the expected escalation for each case. Track accepted results, human corrections, review loops, elapsed time, and cost when available. Keep absent cost data labeled unavailable. Require supported claims and approval boundaries in every accepted result. Return the test plan and a blank run log without changing project files or performing external actions.
+```
+
+## Expand autonomy after evidence
+
+### Workbook page 37
+
+Begin with observation and draft preparation. Awaiting human review preserves the sending boundary. Scheduling adds a trigger, while coordination adds routing. Authorize those capabilities separately.
+
+| Review evidence | Before expanding access |
+| --- | --- |
+| Accepted examples | Collect repeated accepted results across varied cases. |
+| Escalation | Confirm that missing evidence and missing permission reach the human owner. |
+| Pause and undo | Test a pause or undo path and name the responsible person. |
+| Reduce access | Review quality failures, changed connections, and recurring manual corrections. |
+
+Fixed run counts provide no reliability guarantee. A weekly drafting routine can retain human publishing decisions, and the Copper Cup classroom campaign remains draft-only.
+
+Optional follow-up D
+
+After collecting rehearsal results, paste this into your project task. Keep expansion pending human review.
+
+```text
+Review the Copper Cup rehearsal results provided in this conversation. If results are absent, return a draft-only recommendation and name the missing evidence. Compare the current permission scope with one proposed additional capability, such as preparing a weekly draft schedule or routing tasks to the supplied specialists. Require repeated accepted results across varied cases, correct escalation, a tested undo or pause path, and an identified human owner before recommending an expansion. Treat scheduling and coordination as separately authorized capabilities. List the permitted inputs, outputs, destinations, and approval boundaries. Keep sending, publication, spending, deletion, and permission changes pending. Include triggers for reducing access after quality failures or an integration change. Return a recommendation for human review without enabling automation or changing access.
+```
