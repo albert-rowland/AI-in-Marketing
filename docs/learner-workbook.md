@@ -2,7 +2,7 @@
 
 A 60-minute beginner workshop with a guided exercise.
 
-Version dated October 6, 2026.
+Version dated October 10, 2026.
 
 ## Start here
 
@@ -31,18 +31,19 @@ Your route through the workbook
 | Sources and credits | 30 |
 | Complete campaign briefs and metric definitions | 31-33 |
 | Operating boundaries and four follow-ups | 34-37 |
+| Voice, Pages, and campaign brief follow-ups | 38-40 |
 
 Choose your classroom path
 
 With access to Work or Codex, open the project and complete prompt 14. If Dot or a connection is absent, watch the instructor demonstration and use the labeled rehearsal examples. Prompts 01-13 describe the full tutorial sequence, while prompts 15-16 cover review and launch planning.
 
-The course uses Copper Cup Coffee as a fictional training brand. Every price, audience assumption, product detail, and campaign figure belongs to the exercise.
+Copper Cup Coffee, offer details, and campaign figures are fictional classroom examples.
 
 ## Check your accounts first
 
 ### Workbook page 3
 
-Access information below was checked on October 4, 2026. Product interfaces, plan eligibility, and regional access can change. Check the linked official documentation before purchasing a plan.
+Dot access and local connection requirements were refreshed October 10, 2026. The remaining tutorial tools retain their October 4 checks. Product interfaces, plan eligibility, and regional access can change. Check the linked official documentation before purchasing a plan.
 
 | Tool | You need | Classroom use |
 | --- | --- | --- |
@@ -795,6 +796,10 @@ Grace Leung, "ChatGPT Work + Dot: Build your AI Marketing Team (Agents + Skills)
 
 The adaptation follows her progression through Work, Codex, Dot, brand context, ad and website skills, specialist agents, Slack content handoff, routing, and a coordinated lead campaign. Copper Cup replaces Lexora. Original coffee artwork and original diagrams replace source visuals, while promotional claims are omitted.
 
+Riley Brown, October 9, 2026. [Watch the additional Dot video](https://www.youtube.com/watch?v=WXhOxfPECnM). The voice, written-result, private Page, and brief extensions adapt his demonstrated concepts for Copper Cup.
+
+Ten course slides adapt selected layouts from the instructor-supplied Leland event template. The comic cover and recording panels remain in the course.
+
 Official tool documentation
 
 [Dot overview and access](https://learn.chatgpt.com/docs/dots)
@@ -809,7 +814,7 @@ Official tool documentation
 
 [ChatGPT Sites](https://learn.chatgpt.com/docs/sites)
 
-Access and source documentation were checked on October 4, 2026. Recheck changing tool availability before your session.
+Dot access, local connections, and delegated-task controls were refreshed October 10, 2026. Other tutorial tools retain October 4 checks. Recheck changing availability before your session.
 
 Brewing references and artwork
 
@@ -976,3 +981,71 @@ After collecting rehearsal results, paste this into your project task. Keep expa
 ```text
 Review the Copper Cup rehearsal results provided in this conversation. If results are absent, return a draft-only recommendation and name the missing evidence. Compare the current permission scope with one proposed additional capability, such as preparing a weekly draft schedule or routing tasks to the supplied specialists. Require repeated accepted results across varied cases, correct escalation, a tested undo or pause path, and an identified human owner before recommending an expansion. Treat scheduling and coordination as separately authorized capabilities. List the permitted inputs, outputs, destinations, and approval boundaries. Keep sending, publication, spending, deletion, and permission changes pending. Include triggers for reducing access after quality failures or an integration change. Return a recommendation for human review without enabling automation or changing access.
 ```
+
+## Delegate a draft through voice
+
+### Workbook page 38
+
+Open the prepared Copper Cup project on the connected computer and keep its app online. Open Onigiri’s conversation, then use voice or text to request a separate Codex task.
+
+| Review step | Evidence to inspect |
+| --- | --- |
+| Task status | A task link and written progress in the Dot conversation. |
+| Completed output | A saved handoff checked against the approved campaign brief. |
+| Offer facts | Three 100 g bags, USD 29, and USD 5 shipping. |
+| Stop controls | Ending a call can leave tasks running. Inspect Activity and Scheduled separately. |
+
+Copy follow-up E
+
+Paste this full prompt into Onigiri’s conversation or read it during a call. The fallback returns a draft in the conversation if the local capability is absent.
+
+```text
+Use the prepared Copper Cup Coffee project on my connected computer. Start a separate Codex task in that project to draft a one-page campaign handoff from brand/context.md and briefs/discovery-box-campaign.md. Include the supported product, audience hypothesis, price, shipping, outputs, review owner, and next action. Keep outputs inside the project and hold external sends, publication, spending, deletion, and permission changes. In this Dot chat, post the task link, current status, output path, and missing inputs. After completion, inspect the draft against its sources and post the checked result and pending decisions here. If the computer, project, or task capability is unavailable, explain the missing access and return a draft handoff in this conversation.
+```
+
+After checking the handoff, continue with shared context and the numbered ad prompts. Use a 90-second recording during the instructor demonstration.
+
+## Save a private campaign library
+
+### Workbook page 39
+
+Attach the approved brief, context, supplied prompts, and reviewed outputs in the Dot conversation. Ask for a private Page that collects the campaign sources and reusable prompts.
+
+| Before using the Page | Check the result |
+| --- | --- |
+| Source files | All required inputs are attached and source links resolve. |
+| Prompt library | The supplied prompts retain their complete wording. |
+| Access | The Page remains owner-only in Personal Space. |
+| Next action | Copy the prompt and supply its named files for the next task. |
+
+Copy follow-up F
+
+Paste this prompt after the guide package has passed review. Pages access is required for the saved library, and structured text provides the fallback.
+
+```text
+Use only the Copper Cup context, approved brief, prompts, and reviewed outputs attached in this conversation. If a required source is absent, name it before drafting. Create a private Page titled Copper Cup Campaign Kit in my Personal Space. Include the campaign brief, supported offer details, labeled draft assets, source links, and a prompt library. Preserve each supplied prompt verbatim and add its input files, expected result, and review checkpoint. Use copyable prompt blocks when available, with plain text as a fallback. Keep the Page owner-only, leave external sharing pending, and post its link and verification summary in this chat. If Pages is unavailable, return the structured document here for me to save.
+```
+
+Inspect its link, supported offer, and draft labels before sharing. A public Site has a separate audience and launch decision.
+
+## Draft a brief and propose a routine
+
+### Workbook page 40
+
+Attach the fictional brief, metric snapshot, and reviewed draft outputs. Prepare a one-time brief with the next decision first, then review two disabled routine proposals.
+
+| Routine | Scope before activation |
+| --- | --- |
+| Weekday brief | 09:00 America/Los_Angeles for one chosen teaching week. |
+| Focused follow-up | Hourly from 09:00 to 17:00, with named alert conditions. |
+| Human review | Confirm dates, sources, usage, destination, pause controls, and permitted actions. |
+
+Copy follow-up G
+
+Paste this prompt into Onigiri’s conversation. It leaves schedule creation pending a separate decision.
+
+```text
+Using the attached Copper Cup brief, fictional campaign metrics, and reviewed draft outputs, prepare a marketing brief for today. Lead with the next decision, then list the current draft status, missing inputs, sources checked, and next action for the human owner. Label the campaign data synthetic and distinguish observed figures from hypotheses. After this one-time brief, propose two separate recurring routines without enabling either. First propose a weekday brief at 09:00 America/Los_Angeles for one teaching week. Then propose an hourly follow-up check during that week from 09:00 to 17:00 in that time zone. Limit both to the named Copper Cup sources and draft review. The follow-up should notify me only for a changed offer, a deadline at risk, a missing required input, or a decision awaiting my review. Name the destination, end date, usage considerations, and pause controls. Hold schedule creation, external sends, publication, spending, deletion, and permission changes for a separate decision.
+```
+
+Review the saved settings and first result after authorizing a selected routine. Inspect active delegated tasks separately when pausing future runs.

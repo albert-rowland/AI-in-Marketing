@@ -2,9 +2,9 @@
 
 [← Return to the course](../README.md)
 
-Open the speaker notes during each demonstration. Copy the full prompt between its BEGIN and END markers. Lettered follow-up prompts support practice after class.
+Copy the complete prompt between its BEGIN and END markers. Numbered prompts retain the original lesson sequence. Follow-up E supports the voice handoff demo, F supports a private campaign library, and G supports the optional brief demonstration.
 
-## Slide 01 · Build Your AI Marketing Team with Agents.
+## Slide 01 · Build Your AI Marketing Team with Agents
 
 TEACHING SCRIPT
 This session follows a fictional coffee campaign through reusable skills and a specialist agent team. We will build draft ads, inspect an offer page, and coordinate social content before reviewing a lead-generation package. You will adapt one ad during the guided exercise. Every coffee product and campaign figure belongs to our classroom example. Human review governs the publishing decision throughout the lesson.
@@ -22,7 +22,20 @@ SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 02 · Work, Codex, and Dot
+Github: https://github.com/albert-rowland/AI-in-Marketing
+
+## Slide 02 · Your 60-minute course route
+
+TEACHING SCRIPT
+We will give Copper Cup a shared brief, create reusable skills, and define specialist responsibilities. You will watch the campaign handoffs before creating one ad concept in the ten-minute exercise. We will review the evidence and identify the decisions that remain with you. The voice demonstration adds a task link and written result so you can inspect the handoff after the conversation.
+
+CLASSROOM ACTION
+Ask learners to name one marketing task they want an agent to prepare. Take one response and connect it to the campaign examples.
+
+TEACHING TIME
+Allow one minute for teaching. The guided exercise receives ten minutes within the 60-minute lesson.
+
+## Slide 03 · Work, Codex, and Dot
 
 TEACHING SCRIPT
 Grace uses Work for business deliverables and Codex for code and website implementation. Dot provides an ongoing coordination layer and can use connected projects and tools. These roles overlap, so treat this map as a starting guide. In our example, Work prepares the campaign, Codex can implement its page, and Dot coordinates the request. Account features and permissions determine which handoffs are available.
@@ -34,19 +47,22 @@ EXPECTED RESULT
 Learners can explain the distinction and identify the next step.
 
 TEACHING TIME
-Allow 2 minutes for teaching. Reference slides sit outside the 60-minute lesson.
+Allow 1 minutes for teaching. Reference slides sit outside the 60-minute lesson.
 
 SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg Source chapter starts at 00:27.
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 03 · Accounts and access
+UPDATED PRODUCT GUIDANCE
+A Dot can start cloud threads and local Work or Codex tasks, then return progress in its conversation. Local files and local skills require the connected computer to stay online with the app open. A messaging connection supplies a contact channel, while app and computer connections supply separate capabilities. Official guidance checked October 10, 2026. https://learn.chatgpt.com/docs/dots
+
+## Slide 04 · Accounts and access
 
 TEACHING SCRIPT
 Check access before learners arrive. Dot availability depends on plan, region, rollout, and workspace settings. Slack, Notion, and local project access each require their own connections. Those connections have separate permissions. Our full demonstration follows Grace’s tools. Learners can observe the Dot steps and use an available project chat for the ad exercise if their account lacks that feature. Prepared outputs keep the lesson moving.
 
 CLASSROOM ACTION
-Open setup-checklist.md and check each available feature. Reference slide 30 contains the current eligibility detail.
+Open setup-checklist.md and check each available feature. Reference slide 33 contains the current eligibility detail.
 
 EXPECTED RESULT
 Learners can explain the distinction and identify the next step.
@@ -59,7 +75,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/dots/channels
 
-## Slide 04 · Onigiri receives the campaign role
+## Slide 05 · Onigiri receives the campaign role
 
 TEACHING SCRIPT
 Our demo Dot is called Onigiri. Give Onigiri the project, its responsibility, and a clear review boundary. The request tells Onigiri where to return decisions and which outputs to prepare. The cloud computer can continue without your laptop, while local files and skills require the relevant connected computer to remain available. Slack gives you another messaging channel, with separate access to the project and its tools.
@@ -94,7 +110,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/dots/channels
 
-## Slide 05 · One lead and five specialists
+## Slide 06 · One lead and five specialists
 
 TEACHING SCRIPT
 The team has six roles, a lead and five specialists. Grace describes five specialist agents beneath a marketing team lead, so we show that structure explicitly. Onigiri coordinates access and requests outside the project. The lead reconciles the assembled campaign. Each specialist has a defined responsibility and a named output. You can begin with the strategist and content creator, then add roles when the campaign needs their judgment.
@@ -106,14 +122,14 @@ EXPECTED RESULT
 Learners can explain the distinction and identify the next step.
 
 TEACHING TIME
-Allow 2 minutes for teaching. Reference slides sit outside the 60-minute lesson.
+Allow 1 minutes for teaching. Reference slides sit outside the 60-minute lesson.
 
 SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg Source chapter starts at 02:03.
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/agent-configuration/subagents
 
-## Slide 06 · Copper Cup campaign context
+## Slide 07 · Copper Cup campaign context
 
 TEACHING SCRIPT
 Copper Cup gives us one consistent company for the entire lesson. Its Discovery Box contains three 100 g bags with different roast styles. The price and shipping are fictional training inputs. We will keep those details consistent across ads, pages, and posts. The audience description is a hypothesis, so our strategy should explain how we would test it. Brand context defines the facts the agent can use.
@@ -138,7 +154,40 @@ SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg Source chapter starts at 02:34.
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 07 · Shared context guides the campaign
+## Slide 08 · Voice starts the task and leaves a written result
+
+TEACHING SCRIPT
+Voice provides another way to give Onigiri the campaign assignment. Name the prepared project and request a separate Codex task. Onigiri should leave the task link, status, saved result, and pending decision in this conversation. A running status describes progress, while completion requires checking the output against the brief. Local tasks require an available connected computer. Ending the call can leave assigned tasks running, so inspect Activity and Scheduled separately when stopping tasks. The recording shows a bounded draft handoff, and the classroom uses the prepared output if access is absent.
+
+CLASSROOM ACTION
+Use a prepared recording for this demonstration. Open the written result beside the conversation and compare it with the supplied Copper Cup brief.
+
+RECORDING CHECKLIST
+Suggested clip length 90 seconds.
+Open the prepared Copper Cup project and confirm that the connected computer is online. Start a Dot call or use text. Paste Follow-up E and show the separate task. Display its written link and status, then cut to completion. Compare the USD 29 price and USD 5 shipping with the source brief. End with the checked output path and pending decision.
+Record at 1920 by 1080. Hide unrelated chats and account details. Cut generation waiting time and hold the checked result for five seconds.
+
+INSERT RECORDING
+Replace the label shapes inside the large frame with your Google Drive recording. Keep the marked 16:9 frame and the quarter-width prompt panel. Save the recording as recordings/E-voice-codex-handoff.mp4.
+
+COPYABLE FOLLOW-UP PROMPT E
+Paste this full prompt into your Dot conversation, or read it during the call. Select the text between the two markers.
+
+```text
+Use the prepared Copper Cup Coffee project on my connected computer. Start a separate Codex task in that project to draft a one-page campaign handoff from brand/context.md and briefs/discovery-box-campaign.md. Include the supported product, audience hypothesis, price, shipping, outputs, review owner, and next action. Keep outputs inside the project and hold external sends, publication, spending, deletion, and permission changes. In this Dot chat, post the task link, current status, output path, and missing inputs. After completion, inspect the draft against its sources and post the checked result and pending decisions here. If the computer, project, or task capability is unavailable, explain the missing access and return a draft handoff in this conversation.
+```
+
+EXPECTED RESULT
+A sourced draft handoff plus a written task link, completion status, and review checkpoint.
+
+TEACHING TIME
+Allow 2 minutes for teaching. The clip fits within this allocation.
+
+SOURCES
+Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Relevant chapters begin at 02:33, 05:08, and 11:50.
+Official documentation checked October 10, 2026. https://learn.chatgpt.com/docs/dots https://learn.chatgpt.com/docs/dots/controls
+
+## Slide 09 · Shared context guides the campaign
 
 TEACHING SCRIPT
 The project folder gives the team a common source. Brand context describes the company and offer. AGENTS.md supplies project instructions and routing. Role definitions describe specialist responsibility. Skill files describe repeatable processes. Campaign folders hold outputs. The hidden folders travel inside the ZIP, so confirm extraction preserved them. Work Cloud can use attached sources, while local Codex discovers project files from its primary folder.
@@ -173,7 +222,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://developers.openai.com/codex/skills
 
-## Slide 08 · A reusable skill gives ads a process
+## Slide 10 · A reusable skill gives ads a process
 
 TEACHING SCRIPT
 A skill packages a process you expect to repeat. The ad skill reads the brief, proposes concepts, generates artwork when a tool is available, and checks the result before saving it. Its completion criteria include copy, prompts, images, and alt text. The skill file alone cannot provide an image tool or account access. Confirm the skill appears in your environment before running the campaign.
@@ -208,7 +257,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://developers.openai.com/codex/skills
 
-## Slide 09 · One brief produces three ad concepts
+## Slide 11 · One brief produces three ad concepts
 
 TEACHING SCRIPT
 This request points the agent to the approved campaign brief and the reusable skill. It defines the required package without rewriting every instruction. Keep new runs separate from the rehearsal assets so you can compare results. Review the concepts before generating images when a claim or offer needs correction. If generation exceeds the time box, use the prepared images and continue the teaching sequence.
@@ -243,7 +292,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://developers.openai.com/codex/skills
 
-## Slide 10 · Three angles, one supported offer
+## Slide 12 · Three angles, one supported offer
 
 TEACHING SCRIPT
 These ads use different audience angles while keeping the Discovery Box offer consistent. Compare the product, CTA, palette, and language. Each concept should connect to a stated audience need without promising health or productivity outcomes. Inspect small text and packaging labels before approving the artwork. The generated coffee images are fictional product illustrations, so they serve a teaching example without representing an existing company.
@@ -268,7 +317,7 @@ SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg Source chapter starts at 03:27.
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 11 · The website skill keeps the offer consistent
+## Slide 13 · The website skill keeps the offer consistent
 
 TEACHING SCRIPT
 The website skill creates a page from the marketing brief and design references. It preserves the offer and CTA while adapting the layout for mobile and desktop. Our page remains a local rehearsal preview. The source includes all assets and readable copy, so the teacher can revise it. Grace deploys through ChatGPT Sites after reviewing the page. Our prompt prepares that handoff with a separate launch decision.
@@ -303,7 +352,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/sites
 
-## Slide 12 · Onigiri hands off the offer page
+## Slide 14 · Onigiri hands off the offer page
 
 TEACHING SCRIPT
 Onigiri receives an outcome request, locates the project, and coordinates the build. The page shows the Discovery Box and its training price. Its CTA demonstrates the next step without taking payment. Review the offer, mobile layout, and link behavior before proposing deployment. Connected business data could strengthen a future campaign brief, but this class uses synthetic data. The kit includes the page source and a deployment-plan prompt.
@@ -338,7 +387,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/sites
 
-## Slide 13 · Skills and agents serve different decisions
+## Slide 15 · Skills and agents serve different decisions
 
 TEACHING SCRIPT
 A skill defines a process. An agent owns a goal and decides how to pursue it within its scope. For three ads from an approved brief, the ad skill may be sufficient. For choosing an audience and campaign approach from data, the strategist needs judgment. The agent can select relevant skills, but its instructions still define boundaries and completion. Explain that distinction before adding more roles.
@@ -357,7 +406,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://developers.openai.com/codex/skills
 
-## Slide 14 · A small skill library covers this campaign
+## Slide 16 · A small skill library covers this campaign
 
 TEACHING SCRIPT
 The kit includes eight skills that cover every demonstrated workflow. Start with ad creative and website building, then add the processes the campaign needs. Each skill should define inputs, outputs, and a review criterion. Additional files need a defined purpose in the system. Inspect the skill descriptions so the agent selects the appropriate recipe, and keep overlap low. Scheduling has a separate boundary because a draft schedule and an external calendar write have different effects.
@@ -376,7 +425,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://developers.openai.com/codex/skills
 
-## Slide 15 · Give each agent a lasting role
+## Slide 17 · Give each agent a lasting role
 
 TEACHING SCRIPT
 The Growth Strategist needs a lasting role that explains its responsibility across campaigns. These six fields make that role concrete. The brief supplies this campaign’s assignment, while the role defines permitted choices and a finished result. For Copper Cup, the strategist can analyze sample data and propose tests. It asks before sending, publishing, or spending, and flags missing evidence instead of inventing claims. Routine choices inside the brief can continue with recorded assumptions. Completion includes sources, gaps, a proposed next test, and saved output paths.
@@ -400,7 +449,7 @@ Allow one minute for teaching within the 60-minute lesson. The ten-minute guided
 SOURCES AND ADAPTATION
 Concepts adapted from the four reference screenshots supplied by the instructor on October 6, 2026. Copper Cup examples and the rehearsal stages are classroom adaptations. Run counts describe practice choices and provide no reliability guarantee.
 
-## Slide 16 · The Growth Strategist gains a clear role
+## Slide 18 · The Growth Strategist gains a clear role
 
 TEACHING SCRIPT
 The strategist role has a persona, focus, and scope. It turns a goal into campaign recommendations, with evidence and assumptions stated separately. The kit supplies portable role instructions and a local Codex definition. Work uses the role card when you explicitly delegate, while local Codex can load the project TOML. Keep model settings inherited for this class so the role definition remains portable across accounts.
@@ -435,7 +484,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/agent-configuration/subagents
 
-## Slide 17 · A growth goal becomes a testable plan
+## Slide 19 · A growth goal becomes a testable plan
 
 TEACHING SCRIPT
 The strategy should connect the audience hypothesis to an observable outcome. Our synthetic data separates lead acquisition from purchases. A guide may acquire leads efficiently while a box campaign produces a stronger purchase result, so the strategist should avoid a universal winner. The rehearsal recommendation compares roast discovery and the morning routine with a shared offer. Budget and duration need a reviewer decision before a live test.
@@ -462,14 +511,14 @@ EXPECTED RESULT
 Metric findings, a strategy, and an experiment brief.
 
 TEACHING TIME
-Allow 3 minutes for teaching. Reference slides sit outside the 60-minute lesson.
+Allow 2 minutes for teaching. Reference slides sit outside the 60-minute lesson.
 The clip plays within this teaching time. Explain the steps during playback, then pause for questions.
 
 SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg Source chapter starts at 08:27.
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 18 · The Content Creator prepares review assets
+## Slide 20 · The Content Creator prepares review assets
 
 TEACHING SCRIPT
 The creator translates the approved campaign into audience-specific content. A useful package includes copy, a visual brief, an image prompt, and alt text for each post. Six post folders make review and revision easier to trace. A schedule CSV records the intended sequence but remains a draft. The agent should reconcile its copy with the campaign brief and return the package for review before an external action.
@@ -504,7 +553,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/agent-configuration/subagents
 
-## Slide 19 · Limit access to the campaign’s needs
+## Slide 21 · Limit access to the campaign’s needs
 
 TEACHING SCRIPT
 A connected account supplies access, while your instructions define the permitted action. Give the agent the files and fields its campaign needs. It can prepare six social drafts inside the project. Updating a Notion calendar needs an approved destination and fields. Sending a Slack message, launching a public page, or spending money needs approval that names the action and its scope. Deletion and permission changes also need specific approval. Reversibility helps planning, but privacy and the audience still affect permission. Before this class’s Slack demonstration, approve the classroom account, channel, and complete message. Publishing remains a separate decision.
@@ -528,7 +577,7 @@ Allow one minute for teaching within the 60-minute lesson. The ten-minute guided
 SOURCES AND ADAPTATION
 Concepts adapted from the four reference screenshots supplied by the instructor on October 6, 2026. Copper Cup examples and the rehearsal stages are classroom adaptations. Run counts describe practice choices and provide no reliability guarantee.
 
-## Slide 20 · A Slack request coordinates specialists
+## Slide 22 · A Slack request coordinates specialists
 
 TEACHING SCRIPT
 The Slack request describes an outcome and names the review package. Onigiri must locate the brief and delegate to the selected roles. A connected Slack channel lets you reach Dot, while project and app permissions remain separate. During class, the teacher can send this request to their own Dot if the connections are ready. Otherwise read the prompt and inspect the prepared package. Prepared assets let the lesson continue during generation.
@@ -563,7 +612,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/dots/channels
 
-## Slide 21 · Six drafts become a proposed schedule
+## Slide 23 · Six drafts become a proposed schedule
 
 TEACHING SCRIPT
 The review PDF helps the team compare all six posts. Each post folder preserves its source copy and visual instructions. The schedule uses relative days because the class has no launch date. To transfer it into Notion, provide the start date and time zone, review the specific entries and destination, then approve the write. A successful calendar connection still needs a readback to confirm the planned dates and content.
@@ -597,7 +646,7 @@ SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg Source chapter starts at 09:51.
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 22 · Routing gives each request an owner
+## Slide 24 · Routing gives each request an owner
 
 TEACHING SCRIPT
 Before expanding the team, update the project instructions so the agent knows when to use a skill directly and when to delegate. The request should define independent tasks and output directories. The lead waits for specialist results and reviews the combined package. Brand consistency, links, and measurement definitions often fail at handoffs, so include those checks in the merge. The supplied AGENTS.md already contains the routing used in this lesson.
@@ -633,7 +682,7 @@ Official product guidance checked October 4, 2026. https://learn.chatgpt.com/doc
 https://developers.openai.com/codex/skills
 https://learn.chatgpt.com/docs/agent-configuration/subagents
 
-## Slide 23 · Campaign data guides the next hypothesis
+## Slide 25 · Campaign data guides the next hypothesis
 
 TEACHING SCRIPT
 Read the definitions before comparing results. Lead conversion divides leads by landing-page visits. CPL divides spend by leads. Cost per order divides spend by orders. The guide campaigns show stronger lead conversion in this synthetic example, while the Discovery Box row shows the lowest cost per order. Those outcomes differ, and campaign objectives also differ. The data suggests a next experiment, with no randomized evidence to establish causation.
@@ -658,7 +707,7 @@ SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg Source chapter starts at 12:34.
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 24 · The team builds a guide and download page
+## Slide 26 · The team builds a guide and download page
 
 TEACHING SCRIPT
 The lead campaign combines analysis, content, artwork, and website implementation. Our ten-page guide includes brewing starting points and a troubleshooting worksheet. The page uses the guide cover and validates a fictional test address before revealing the PDF link. It stores no lead in a production system. For a launch, define storage, consent, privacy language, email delivery, and spam protection, then review the Sites proposal and verify the approved deployment.
@@ -693,7 +742,17 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/sites
 
-## Slide 25 · Your ten-minute ad exercise
+OPTIONAL PRIVATE CAMPAIGN LIBRARY
+Keep the reviewed campaign package in a private Page, with the brief, source links, and copyable prompts together. Prepare the Page from sources attached in the conversation and inspect its access before sharing. This extension follows Riley Brown’s Pages chapter at 13:39 and remains outside the core demo playback.
+
+```text
+Use only the Copper Cup context, approved brief, prompts, and reviewed outputs attached in this conversation. If a required source is absent, name it before drafting. Create a private Page titled Copper Cup Campaign Kit in my Personal Space. Include the campaign brief, supported offer details, labeled draft assets, source links, and a prompt library. Preserve each supplied prompt verbatim and add its input files, expected result, and review checkpoint. Use copyable prompt blocks when available, with plain text as a fallback. Keep the Page owner-only, leave external sharing pending, and post its link and verification summary in this chat. If Pages is unavailable, return the structured document here for me to save.
+```
+
+EXPECTED RESULT
+A private campaign library with unchanged prompts and a link returned in the conversation.
+
+## Slide 27 · Your ten-minute ad exercise
 
 TEACHING SCRIPT
 You have ten minutes to adapt one ad for people setting up their first home office. Preserve the Discovery Box product, price, shipping, and palette. Use prompt 14 and the supplied ad skill. Focus on copy and visual direction if image generation exceeds the time box. At minute six, compare every claim with the brief and choose one revision. At minute nine, prepare to explain how the audience change affected the concept.
@@ -718,7 +777,7 @@ SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 26 · A review names the next revision
+## Slide 28 · A review names the next revision
 
 TEACHING SCRIPT
 Use this five-point rubric to assess the draft. Each criterion receives one point when the evidence is visible. A useful review names the specific claim or design choice that needs revision. The example answer preserves product details and adapts the desk setting without promising productivity gains. This rubric checks a classroom output, while commercial performance needs an approved experiment and measurement.
@@ -752,7 +811,7 @@ SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
-## Slide 27 · Rehearse, repair, and retest
+## Slide 29 · Rehearse, repair, and retest
 
 TEACHING SCRIPT
 One accepted draft gives us one example. Use these three rehearsal stages to examine the process across varied cases. First, watch the result and record guesses, missing inputs, and human corrections. Next, repair the instruction or handoff that produced the error. Then run a different case without supplying the missing answer by hand. For Copper Cup, remove the shipping detail or request an unsupported health claim in a temporary test copy. The expected result names the missing evidence and holds the claim for review. Track accepted results, corrections, review loops, elapsed time, and cost when available. Three stages organize rehearsal and provide no automatic permission increase.
@@ -776,7 +835,7 @@ Allow one minute for teaching within the 60-minute lesson. The ten-minute guided
 SOURCES AND ADAPTATION
 Concepts adapted from the four reference screenshots supplied by the instructor on October 6, 2026. Copper Cup examples and the rehearsal stages are classroom adaptations. Run counts describe practice choices and provide no reliability guarantee.
 
-## Slide 28 · Expand autonomy after evidence
+## Slide 30 · Expand autonomy after evidence
 
 TEACHING SCRIPT
 Start with observation and draft preparation, then consider one additional capability after repeated accepted results. The first three examples describe how the agent participates in the task. Scheduling and coordination add timing and routing capabilities, so approve them separately. A weekly drafting routine can still hold every publishing decision for you. Before expanding access, review varied clean examples, correct escalation, the pause or undo path, and the person responsible. A fixed run count provides no reliability guarantee. Reduce access when quality drops, a connection changes, or recurring manual corrections signal an instruction failure. Copper Cup remains a draft-only classroom campaign unless you approve a named next action.
@@ -800,7 +859,7 @@ Allow one minute for teaching within the 60-minute lesson. The ten-minute guided
 SOURCES AND ADAPTATION
 Concepts adapted from the four reference screenshots supplied by the instructor on October 6, 2026. Copper Cup examples and the rehearsal stages are classroom adaptations. Run counts describe practice choices and provide no reliability guarantee.
 
-## Slide 29 · A launch proposal defines the next steps
+## Slide 31 · A launch proposal defines the next steps
 
 TEACHING SCRIPT
 For your next campaign, update the brand context and brief before running the skills. Keep supported claims, output paths, and review criteria consistent across the team. Select specialists when the goal needs judgment, and use a skill directly when the process already fits. The kit contains prompts and prepared outputs you can compare with a new run. Refresh tool access and product requirements before teaching this lesson again.
@@ -835,7 +894,43 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/sites
 
-## Slide 30 · Account requirements and rollout
+CLASSROOM CLOSE
+The 60-minute core lesson ends here. The recurring brief demonstration and remaining reference slides are optional extensions. Use the workbook for follow-up practice and recording preparation.
+
+## Slide 32 · A daily brief and a focused follow-up check
+
+TEACHING SCRIPT
+The daily brief leads with the next campaign decision and reports the draft status and missing inputs. A recurring follow-up checks a named responsibility and brings a changed condition back to you. These routines need a source list, time zone, end date, destination, and permitted actions. In this recording, the prompt prepares one brief and proposes two schedules. It leaves both schedules disabled. After rehearsal, review usage and approve any routine separately. Inspect the saved schedule and the first result, and check active tasks separately when pausing future runs.
+
+CLASSROOM ACTION
+Use a prepared recording for this demonstration. Open the written result beside the conversation and compare it with the supplied Copper Cup brief.
+
+RECORDING CHECKLIST
+Suggested clip length 75 seconds.
+Attach the fictional brief, metric snapshot, and reviewed draft outputs. Paste Follow-up G into Onigiri’s conversation. Show the decision at the top of the brief and the source references. Highlight the proposed time zone, end date, alert conditions, and disabled status. Show where Activity and Scheduled can be inspected. Finish before enabling either routine.
+Record at 1920 by 1080. Hide unrelated chats and account details. Cut generation waiting time and hold the checked result for five seconds.
+
+INSERT RECORDING
+Replace the label shapes inside the large frame with your Google Drive recording. Keep the marked 16:9 frame and the quarter-width prompt panel. Save the recording as recordings/G-brief-followup-plan.mp4.
+
+COPYABLE FOLLOW-UP PROMPT G
+Paste this full prompt into your Dot conversation, or read it during the call. Select the text between the two markers.
+
+```text
+Using the attached Copper Cup brief, fictional campaign metrics, and reviewed draft outputs, prepare a marketing brief for today. Lead with the next decision, then list the current draft status, missing inputs, sources checked, and next action for the human owner. Label the campaign data synthetic and distinguish observed figures from hypotheses. After this one-time brief, propose two separate recurring routines without enabling either. First propose a weekday brief at 09:00 America/Los_Angeles for one teaching week. Then propose an hourly follow-up check during that week from 09:00 to 17:00 in that time zone. Limit both to the named Copper Cup sources and draft review. The follow-up should notify me only for a changed offer, a deadline at risk, a missing required input, or a decision awaiting my review. Name the destination, end date, usage considerations, and pause controls. Hold schedule creation, external sends, publication, spending, deletion, and permission changes for a separate decision.
+```
+
+EXPECTED RESULT
+A one-time marketing brief and two scoped schedule proposals awaiting review.
+
+TEACHING TIME
+Optional extension outside the 60-minute lesson. Allow three minutes if you add this demonstration.
+
+SOURCES
+Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Relevant chapters begin at 19:13 and 21:14.
+Official documentation checked October 10, 2026. https://learn.chatgpt.com/docs/dots https://learn.chatgpt.com/docs/dots/controls
+
+## Slide 33 · Account requirements and rollout
 
 TEACHING SCRIPT
 This reference records the current Dot eligibility described by OpenAI. Availability rolls out gradually, so an eligible plan can still lack a visible Dot. Enterprise administrators must enable access. Cloud tasks and local computer use have different availability requirements. Refresh these details before class.
@@ -855,7 +950,10 @@ Official product guidance checked October 4, 2026. https://learn.chatgpt.com/doc
 https://learn.chatgpt.com/docs/dots/channels
 https://learn.chatgpt.com/docs/sites
 
-## Slide 31 · The complete teaching-kit inventory
+DOT ACCESS REFRESH
+Dot eligibility, mobile creation, local computer requirements, and delegated task controls were checked October 10, 2026. https://learn.chatgpt.com/docs/dots
+
+## Slide 34 · The complete teaching-kit inventory
 
 TEACHING SCRIPT
 This inventory maps the lesson to the files learners receive. The kit separates portable role cards from local Codex configuration and rehearsal outputs from new runs. Preserve the hidden folders during extraction. The file-to-slide manifest gives you the prompt and source for every teaching slide.
@@ -874,7 +972,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://developers.openai.com/codex/skills
 
-## Slide 32 · Prompt sequence and demo shortcuts
+## Slide 35 · Prompt sequence and demo shortcuts
 
 TEACHING SCRIPT
 Use the prompt index for the full tutorial or jump to the task you need. Prompt 14 supports the learner exercise. Prompts 11 and 16 prepare external actions but require a specific approval before a calendar write or launch. The rehearsal examples remain available when a live step is delayed.
@@ -893,7 +991,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://developers.openai.com/codex/skills
 
-## Slide 33 · Agent roles and routing reference
+## Slide 36 · Agent roles and routing reference
 
 TEACHING SCRIPT
 This table assigns responsibility without implying every request needs all six roles. Name the outputs and approval boundary when delegating. Independent specialist tasks can run concurrently when the environment supports them. The lead still reviews the assembled result before returning it.
@@ -912,7 +1010,7 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 https://learn.chatgpt.com/docs/agent-configuration/subagents
 
-## Slide 34 · Troubleshooting and rehearsal paths
+## Slide 37 · Troubleshooting and rehearsal paths
 
 TEACHING SCRIPT
 The troubleshooting guide provides a defined rehearsal path for each missing feature. Confirm the cause before changing instructions or tools. A prepared example can explain the workflow while an unavailable connector remains unchecked. Use the integration checklist before moving a local page into production.
@@ -932,7 +1030,7 @@ Official product guidance checked October 4, 2026. https://learn.chatgpt.com/doc
 https://developers.openai.com/codex/skills
 https://learn.chatgpt.com/docs/agent-configuration/subagents
 
-## Slide 35 · Sources and adaptation credits
+## Slide 38 · Sources and adaptation credits
 
 TEACHING SCRIPT
 Grace’s tutorial supplies the demonstration order and agent-team pattern. This workshop rebuilds the examples with a fictional coffee brand and its own visual design. Official product guides supply current setup details. Coffee instructions provide qualified starting points, with equipment and taste affecting results. The synthetic campaign figures demonstrate arithmetic and decision boundaries.
@@ -949,3 +1047,6 @@ Use this slide for reference. Reference slides sit outside the 60-minute lesson.
 SOURCES
 Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?v=BzS93V2zFTg
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
+
+ADDITIONAL SOURCE
+Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Full auto-generated transcript reviewed. Copper Cup voice, Page, and brief examples are course adaptations. Phone notification settings, shopping, 3D printing, and application feature development remain outside the core lesson. Template layouts adapted from the instructor-supplied Leland event deck. Original comic cover, images, and demo structures remain in the course.

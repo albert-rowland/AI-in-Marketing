@@ -25,3 +25,16 @@ Brewing sources were checked October 4, 2026.
 
 ## Artwork
 Coffee assets were generated for this fictional workshop using the built-in image-generation tool. Generation prompts are preserved in assets/image-generation-prompts.md. Product artwork represents fictional products.
+
+## Additional Dot video and supplied template
+
+Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026, 25 minutes 56 seconds. The full auto-generated transcript was reviewed for the October 10 revision.
+https://www.youtube.com/watch?v=WXhOxfPECnM
+
+Voice, explicit Codex task delegation, written links and results, private Pages, daily briefs, and focused follow-ups become Copper Cup extensions. The original numbered tutorial sequence remains intact. These examples retain source checks and human decisions for sends, scheduling, publication, spending, and access changes.
+
+The instructor supplied a 25-slide Leland event template. Ten course slides adapt its agenda, framework, list, card, metric, exercise, recap, next-step, and Q&A structures as editable native objects. Coaching offers, testimonials, and discounts were omitted. Arial substitutes for embedded template fonts for portable editing, and the comic cover and demo geometry remain in the course.
+
+Dot access, local computer requirements, and delegated-task controls were checked October 10, 2026.
+https://learn.chatgpt.com/docs/dots
+https://learn.chatgpt.com/docs/dots/controls

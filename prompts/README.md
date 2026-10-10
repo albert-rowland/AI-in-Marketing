@@ -28,3 +28,7 @@ Change the Dot name if you use your own assistant. For prompt 11, supply your ow
 ## Optional follow-up prompts
 
 [Open the operating guide](../docs/agent-operating-guide.md) for four additional copyable prompts. Use these after the numbered lesson sequence to define the role, review permissions, plan rehearsal, and assess one autonomy expansion.
+
+## Voice, Pages, and campaign brief extensions
+
+[Open the extension guide](../docs/dot-campaign-guide.md) for follow-ups E, F, and G. Each section names its inputs, destination, expected result, review check, and next action.

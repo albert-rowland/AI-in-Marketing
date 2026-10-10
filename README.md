@@ -31,9 +31,17 @@
 | 🤝 **05 · Run a coordinated campaign** | Give specialists separate tasks and review their combined outputs. | [Start lesson 5](lessons/05-run-a-coordinated-campaign.md) |
 | ✅ **06 · Practice and review** | Complete the ten-minute exercise and plan your next campaign. | [Start lesson 6](lessons/06-practice-and-review.md) |
 
+## Preview your teaching layouts
+
+![Course agenda, voice demonstration, metric cards, and guided exercise layouts](assets/lesson-layout-preview.png)
+
 ## Give your agents clear operating boundaries
 
 The deck adds four Copper Cup examples covering lasting roles, scoped permissions, varied rehearsal, and evidence for expanding autonomy. [Open the operating guide and optional follow-up prompts](docs/agent-operating-guide.md). The learner workbook includes these concepts and four copyable follow-ups on pages 34 through 37.
+
+## Extend your campaign with voice and written results
+
+[Open the voice, Pages, and campaign brief guide](docs/dot-campaign-guide.md) to start a separate draft task, retain its written result, save a private prompt library, and propose a bounded recurring routine. Full prompts E, F, and G appear in the workbook on pages 38 through 40 and in the instructor notes. The revised presentation uses selected layouts from the supplied event template alongside the comic cover and demo panels.
 
 ## Choose your route
 
@@ -59,4 +67,4 @@ Keep the classroom outputs as drafts and local previews. Review any proposed sch
 
 The teaching order adapts [Grace Leung's original tutorial](https://www.youtube.com/watch?v=BzS93V2zFTg). This course uses a fictional coffee company, new artwork, comic styling, and supplied practice data. [Read the sources and adaptation notes](course-files/sources.md).
 
-Course materials were prepared on October 4, 2026, with lesson concepts added on October 6, 2026. Account requirements retain their October 4 source-check date. Refresh account requirements and product instructions before teaching another session.
+Course materials were prepared on October 4, 2026, with operating concepts added on October 6 and the template and Dot extensions added on October 10. Dot access, local connection requirements, and delegated-task controls were refreshed October 10, 2026. Refresh account requirements and product instructions before teaching another session.

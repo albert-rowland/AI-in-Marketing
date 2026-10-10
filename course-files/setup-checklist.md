@@ -1,6 +1,6 @@
 # Setup Checklist
 
-Access details were checked on October 4, 2026. Product interfaces and eligibility can change.
+Dot access and connection requirements were refreshed October 10, 2026. The remaining tutorial tools retain their October 4 checks. Product interfaces and eligibility can change.
 
 ## Required for the instructor's full demonstration
 Use the ChatGPT desktop app with Work access, a visible Dot, an available image-generation tool, and permission to read this project. Use the Google Drive connection to open the deck. Local file workflows require the project folder as a source and the relevant computer connection. A local computer must stay online with its app open when Dot needs local files or local skills.
@@ -22,3 +22,12 @@ https://learn.chatgpt.com/docs/dots/computers-and-apps
 https://learn.chatgpt.com/docs/dots/channels
 https://learn.chatgpt.com/docs/agent-configuration/subagents
 https://developers.openai.com/codex/skills
+
+## Voice and private Pages extensions
+
+Dot creation is available in the latest mobile app, desktop app, or desktop browser for eligible accounts. Mobile web is unsupported. Voice requires a microphone permission, while local tasks require the connected computer to remain online with the app open. A phone conversation can request a local task, but local execution still depends on that computer connection.
+
+The private campaign library requires Pages access and attached sources in its Dot conversation. Use the structured-text fallback if Pages is unavailable. The brief demonstration prepares a one-time result and disabled schedule proposals. Review usage, sources, time zone, end date, and destination before enabling a recurring task. Inspect Activity and Scheduled separately when stopping tasks.
+
+https://learn.chatgpt.com/docs/dots
+https://learn.chatgpt.com/docs/dots/controls

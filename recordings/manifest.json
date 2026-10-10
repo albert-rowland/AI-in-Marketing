@@ -1,6 +1,6 @@
 [
   {
-    "slide": 4,
+    "slide": 5,
     "prompt": 2,
     "recording_file": "02-dot-setup.mp4",
     "seconds": 30,
@@ -17,7 +17,24 @@
     "nativeSlideId": "p4"
   },
   {
-    "slide": 7,
+    "slide": 8,
+    "prompt": "E",
+    "recording_file": "E-voice-codex-handoff.mp4",
+    "seconds": 90,
+    "checklist": "Suggested clip length 90 seconds.\nOpen the prepared Copper Cup project and confirm that the connected computer is online. Start a Dot call or use text. Paste Follow-up E and show the separate task. Display its written link and status, then cut to completion. Compare the USD 29 price and USD 5 shipping with the source brief. End with the checked output path and pending decision.\nRecord at 1920 by 1080. Hide unrelated chats and account details. Cut generation waiting time and hold the checked result for five seconds.",
+    "expected_result": "A separate task, a written link, and a checked campaign handoff.",
+    "teaching_minutes": 2,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226,
+    "nativeSlideId": "refresh_voice_20261010"
+  },
+  {
+    "slide": 9,
     "prompt": 1,
     "recording_file": "01-project-setup.mp4",
     "seconds": 90,
@@ -34,7 +51,7 @@
     "nativeSlideId": "p7"
   },
   {
-    "slide": 8,
+    "slide": 10,
     "prompt": 3,
     "recording_file": "03-create-ad-skill.mp4",
     "seconds": 75,
@@ -51,7 +68,7 @@
     "nativeSlideId": "p8"
   },
   {
-    "slide": 9,
+    "slide": 11,
     "prompt": 4,
     "recording_file": "04-run-ad-skill.mp4",
     "seconds": 90,
@@ -68,7 +85,7 @@
     "nativeSlideId": "p9"
   },
   {
-    "slide": 11,
+    "slide": 13,
     "prompt": 5,
     "recording_file": "05-create-website-skill.mp4",
     "seconds": 60,
@@ -85,13 +102,13 @@
     "nativeSlideId": "p11"
   },
   {
-    "slide": 12,
+    "slide": 14,
     "prompt": 6,
     "recording_file": "06-dot-offer-page.mp4",
     "seconds": 90,
     "checklist": "Paste Prompt 06 to your project Dot. Show the delegated website task. Open the local page and click its product-detail CTA.",
     "expected_result": "An offer page preview and editable source files.",
-    "teaching_minutes": 4,
+    "teaching_minutes": 3,
     "video_frame": {
       "x_pt": 256,
       "y_pt": 110,
@@ -102,7 +119,7 @@
     "nativeSlideId": "p12"
   },
   {
-    "slide": 16,
+    "slide": 18,
     "prompt": 7,
     "recording_file": "07-create-growth-agent.mp4",
     "seconds": 60,
@@ -119,13 +136,13 @@
     "nativeSlideId": "p15"
   },
   {
-    "slide": 17,
+    "slide": 19,
     "prompt": 8,
     "recording_file": "08-growth-goal.mp4",
     "seconds": 90,
     "checklist": "Paste Prompt 08 into your project. Show the metric findings. Open the strategy and experiment brief. Explain one hypothesis and its measurement.",
     "expected_result": "Metric findings, a strategy, and an experiment brief.",
-    "teaching_minutes": 3,
+    "teaching_minutes": 2,
     "video_frame": {
       "x_pt": 256,
       "y_pt": 110,
@@ -136,7 +153,7 @@
     "nativeSlideId": "p16"
   },
   {
-    "slide": 18,
+    "slide": 20,
     "prompt": 9,
     "recording_file": "09-create-content-agent.mp4",
     "seconds": 30,
@@ -153,7 +170,7 @@
     "nativeSlideId": "p17"
   },
   {
-    "slide": 20,
+    "slide": 22,
     "prompt": 10,
     "recording_file": "10-slack-social-handoff.mp4",
     "seconds": 90,
@@ -170,13 +187,13 @@
     "nativeSlideId": "p18"
   },
   {
-    "slide": 21,
+    "slide": 23,
     "prompt": 11,
     "recording_file": "11-calendar-review.mp4",
     "seconds": 75,
     "checklist": "Paste Prompt 11 into your project. Show the missing date and time-zone questions. Open the schedule proposal. End before a calendar write.",
     "expected_result": "A schedule proposal with the missing inputs identified.",
-    "teaching_minutes": 3,
+    "teaching_minutes": 2,
     "video_frame": {
       "x_pt": 256,
       "y_pt": 110,
@@ -187,7 +204,7 @@
     "nativeSlideId": "p19"
   },
   {
-    "slide": 22,
+    "slide": 24,
     "prompt": 12,
     "recording_file": "12-update-routing.mp4",
     "seconds": 60,
@@ -204,7 +221,7 @@
     "nativeSlideId": "p20"
   },
   {
-    "slide": 24,
+    "slide": 26,
     "prompt": 13,
     "recording_file": "13-lead-magnet-team.mp4",
     "seconds": 120,
@@ -221,7 +238,7 @@
     "nativeSlideId": "p22"
   },
   {
-    "slide": 26,
+    "slide": 28,
     "prompt": 15,
     "recording_file": "15-review-package.mp4",
     "seconds": 30,
@@ -238,7 +255,7 @@
     "nativeSlideId": "p24"
   },
   {
-    "slide": 29,
+    "slide": 31,
     "prompt": 16,
     "recording_file": "16-sites-deployment-plan.mp4",
     "seconds": 30,
@@ -253,5 +270,22 @@
     },
     "prompt_width_pt": 226,
     "nativeSlideId": "p25"
+  },
+  {
+    "slide": 32,
+    "prompt": "G",
+    "recording_file": "G-brief-followup-plan.mp4",
+    "seconds": 75,
+    "checklist": "Suggested clip length 75 seconds.\nAttach the fictional brief, metric snapshot, and reviewed draft outputs. Paste Follow-up G into Onigiri’s conversation. Show the decision at the top of the brief and the source references. Highlight the proposed time zone, end date, alert conditions, and disabled status. Show where Activity and Scheduled can be inspected. Finish before enabling either routine.\nRecord at 1920 by 1080. Hide unrelated chats and account details. Cut generation waiting time and hold the checked result for five seconds.",
+    "expected_result": "A decision-first brief and two schedule proposals awaiting review.",
+    "teaching_minutes": 0,
+    "video_frame": {
+      "x_pt": 256,
+      "y_pt": 110,
+      "width_pt": 678,
+      "height_pt": 381.375
+    },
+    "prompt_width_pt": 226,
+    "nativeSlideId": "refresh_brief_20261010"
   }
 ]
