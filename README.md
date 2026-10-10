@@ -1,6 +1,6 @@
 # Build Your AI Marketing Team with Agents
 
-![Albert and Onigiri introduce the comic-themed AI marketing lesson](assets/course-cover.png)
+![The uploaded teaching template with the AI marketing course title](assets/course-cover.png)
 
 **A 60-minute beginner course with a guided exercise.** Build a fictional Copper Cup Coffee campaign using ChatGPT Work, Onigiri (Personalized ChatGPT Dot), Codex, reusable skills, and specialist agents.
 
@@ -15,7 +15,7 @@
 | Start with this | Use it for |
 | --- | --- |
 | **[Download the complete learner workbook](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/learner-workbook.pdf)** | Follow the lessons, copy every prompt, review the sample data, and complete your exercise. |
-| **[Download the presentation PDF](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/course-deck.pdf)** | Review the comic-themed slides and marked demo recording slots. |
+| **[Download the presentation PDF](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/course-deck.pdf)** | Review the template-based slides and marked demo recording slots. |
 | **[Download the teaching kit](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/teaching-kit.zip)** | Open the project files, reusable skills, agent roles, sample artwork, and prepared campaign examples. |
 
 > **First visit?** Download the workbook, then open [Start here](START-HERE.md). You can follow this course without using Git commands.
@@ -41,7 +41,7 @@ The deck adds four Copper Cup examples covering lasting roles, scoped permission
 
 ## Extend your campaign with voice and written results
 
-[Open the voice, Pages, and campaign brief guide](docs/dot-campaign-guide.md) to start a separate draft task, retain its written result, save a private prompt library, and propose a bounded recurring routine. Full prompts E, F, and G appear in the workbook on pages 38 through 40 and in the instructor notes. The revised presentation uses selected layouts from the supplied event template alongside the comic cover and demo panels.
+[Open the voice, Pages, and campaign brief guide](docs/dot-campaign-guide.md) to start a separate draft task, retain its written result, save a private prompt library, and propose a bounded recurring routine. Full prompts E, F, and G appear in the workbook on pages 38 through 40 and in the instructor notes. All 38 presentation slides follow the uploaded event template, including the cover and demo panels.
 
 ## Choose your route
 
@@ -65,6 +65,6 @@ Keep the classroom outputs as drafts and local previews. Review any proposed sch
 
 ## Credits and updates
 
-The teaching order adapts [Grace Leung's original tutorial](https://www.youtube.com/watch?v=BzS93V2zFTg). This course uses a fictional coffee company, new artwork, comic styling, and supplied practice data. [Read the sources and adaptation notes](course-files/sources.md).
+The teaching order adapts [Grace Leung's original tutorial](https://www.youtube.com/watch?v=BzS93V2zFTg). This course uses a fictional coffee company, new artwork, the uploaded teaching template, and supplied practice data. [Read the sources and adaptation notes](course-files/sources.md).
 
 Course materials were prepared on October 4, 2026, with operating concepts added on October 6 and the template and Dot extensions added on October 10. Dot access, local connection requirements, and delegated-task controls were refreshed October 10, 2026. Refresh account requirements and product instructions before teaching another session.

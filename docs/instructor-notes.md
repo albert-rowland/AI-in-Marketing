@@ -2,7 +2,7 @@
 
 [← Return to the course](../README.md)
 
-Copy the complete prompt between its BEGIN and END markers. Numbered prompts retain the original lesson sequence. Follow-up E supports the voice handoff demo, F supports a private campaign library, and G supports the optional brief demonstration.
+Every slide follows the uploaded teaching template. Copy each complete prompt between its BEGIN and END markers.
 
 ## Slide 01 · Build Your AI Marketing Team with Agents
 
@@ -95,7 +95,9 @@ COPYABLE PROMPT 02
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 02
 Your name for this exercise is Onigiri. Coordinate the fictional Copper Cup marketing project that I attach. Prepare drafts and local previews, and bring review decisions to me in ChatGPT. Read AGENTS.md and brand/context.md before acting. Use connected tools only within their permissions. Ask before scheduling, sending, deploying, collecting leads, or spending. Confirm the project path and available connections. This request establishes a classroom role for the current project, with future recurring duties requiring a stated cadence.
+END PROMPT 02
 ```
 
 EXPECTED RESULT
@@ -141,7 +143,9 @@ COPYABLE PROMPT 01
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 01
 Read this Copper Cup teaching-kit folder as the source for a fictional marketing project. Inspect brand/context.md, AGENTS.md, and the two briefs. Confirm the product, audience, offer, skill paths, and output structure. Report missing inputs before generating campaign assets. Keep the supplied rehearsal outputs separate from new runs.
+END PROMPT 01
 ```
 
 EXPECTED RESULT
@@ -174,7 +178,9 @@ COPYABLE FOLLOW-UP PROMPT E
 Paste this full prompt into your Dot conversation, or read it during the call. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT E
 Use the prepared Copper Cup Coffee project on my connected computer. Start a separate Codex task in that project to draft a one-page campaign handoff from brand/context.md and briefs/discovery-box-campaign.md. Include the supported product, audience hypothesis, price, shipping, outputs, review owner, and next action. Keep outputs inside the project and hold external sends, publication, spending, deletion, and permission changes. In this Dot chat, post the task link, current status, output path, and missing inputs. After completion, inspect the draft against its sources and post the checked result and pending decisions here. If the computer, project, or task capability is unavailable, explain the missing access and return a draft handoff in this conversation.
+END PROMPT E
 ```
 
 EXPECTED RESULT
@@ -207,7 +213,9 @@ COPYABLE PROMPT 01
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 01
 Read this Copper Cup teaching-kit folder as the source for a fictional marketing project. Inspect brand/context.md, AGENTS.md, and the two briefs. Confirm the product, audience, offer, skill paths, and output structure. Report missing inputs before generating campaign assets. Keep the supplied rehearsal outputs separate from new runs.
+END PROMPT 01
 ```
 
 EXPECTED RESULT
@@ -242,7 +250,9 @@ COPYABLE PROMPT 03
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 03
 Read .agents/skills/albert-copper-cup-ad-creative/SKILL.md as the required skill specification. Create or verify that reusable project skill without changing its name or scope. Confirm it appears in the available skill interface. Leave existing files intact when the supplied definition already satisfies the specification.
+END PROMPT 03
 ```
 
 EXPECTED RESULT
@@ -277,7 +287,9 @@ COPYABLE PROMPT 04
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 04
 Use the albert-copper-cup-ad-creative skill with briefs/discovery-box-campaign.md. Create three Instagram ad concepts and the corresponding images. Read brand/context.md and reuse assets/ when appropriate. Save outputs to campaigns/discovery-box/new-run/ads/. Return the concepts, images, generation prompts, alt text, and claim-review checklist. Label the campaign fictional and keep it ready for review.
+END PROMPT 04
 ```
 
 EXPECTED RESULT
@@ -304,7 +316,9 @@ COPYABLE PROMPT 04
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 04
 Use the albert-copper-cup-ad-creative skill with briefs/discovery-box-campaign.md. Create three Instagram ad concepts and the corresponding images. Read brand/context.md and reuse assets/ when appropriate. Save outputs to campaigns/discovery-box/new-run/ads/. Return the concepts, images, generation prompts, alt text, and claim-review checklist. Label the campaign fictional and keep it ready for review.
+END PROMPT 04
 ```
 
 EXPECTED RESULT
@@ -337,7 +351,9 @@ COPYABLE PROMPT 05
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 05
 Read the complete website skill definition and design references. Create or verify the reusable website skill with those requirements. Keep the supplied skill name. Confirm a responsive page, a local preview, and form testing form part of its completion criteria.
+END PROMPT 05
 ```
 
 EXPECTED RESULT
@@ -372,7 +388,9 @@ COPYABLE PROMPT 06
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 06
 Onigiri, locate the attached Copper Cup project and read briefs/discovery-box-campaign.md. Use the website-builder skill to prepare a one-page Discovery Box offer site. Route the implementation to Codex if that is available in this environment. Keep the output under campaigns/discovery-box/new-run/site/. Show the preview and source files. Prepare the Sites deployment plan for review before any launch.
+END PROMPT 06
 ```
 
 EXPECTED RESULT
@@ -437,7 +455,9 @@ OPTIONAL FOLLOW-UP PROMPT A
 This follow-up supports practice after class. The numbered demonstration prompts remain unchanged. Paste into your selected course-files project task and copy the text between the markers.
 
 ```text
+BEGIN PROMPT A
 Read agents/growth_strategist.md, brand/context.md, and briefs/discovery-box-campaign.md. Draft a six-field role contract for the Growth Strategist with headings OWNS, INPUTS, MAY, ASKS BEFORE, WHEN UNSURE, DONE WHEN. Separate lasting responsibilities from the current campaign assignment. Permit source review, sample-data analysis, and draft creation within the project. Require specific approval before external sends, publication, spending, deletion, or permission changes. Resolve routine choices within the brief and record assumptions. Escalate missing source evidence, conflicting instructions, or missing access. Define completion through supported claims, stated gaps, a bounded test proposal, and saved output paths. Return the contract for review without changing files or permissions.
+END PROMPT A
 ```
 
 EXPECTED RESULT
@@ -469,7 +489,9 @@ COPYABLE PROMPT 07
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 07
 Read agents/growth_strategist.md and the corresponding .codex/agents/growth_strategist.toml. In a local Codex project, verify the TOML definition loads. In ChatGPT Work, use the Markdown role as specialist instructions for an explicit delegated task. Confirm its role, inputs, output, and approval boundary. Keep model settings inherited from the parent.
+END PROMPT 07
 ```
 
 EXPECTED RESULT
@@ -504,7 +526,9 @@ COPYABLE PROMPT 08
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 08
 Delegate to a Growth Strategist using agents/growth_strategist.md. Read the Discovery Box brief and synthetic past-campaigns.csv with metric-definitions.md. Recommend a launch campaign and a bounded experiment. Save strategy.md and experiment-brief.md under campaigns/discovery-box/new-run/strategy/. Cite input paths and distinguish data findings from recommendations. Wait for the specialist result before returning the reviewed strategy.
+END PROMPT 08
 ```
 
 EXPECTED RESULT
@@ -538,7 +562,9 @@ COPYABLE PROMPT 09
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 09
 Read agents/content_creator.md and the corresponding .codex/agents/content_creator.toml. Verify the local Codex definition or use the Markdown role as specialist instructions in Work. Confirm the output structure includes six post folders, copy, visual briefs, prompts, alt text, and a draft schedule.
+END PROMPT 09
 ```
 
 EXPECTED RESULT
@@ -565,7 +591,9 @@ OPTIONAL FOLLOW-UP PROMPT B
 This follow-up supports practice after class. The numbered demonstration prompts remain unchanged. Paste into your selected course-files project task and copy the text between the markers.
 
 ```text
+BEGIN PROMPT B
 Read the Copper Cup campaign brief and the current role instructions. Return a permission plan with three sections covering actions permitted within the project, internal updates needing a named destination and approved fields, and external or consequential actions awaiting specific approval. Include preparing six social drafts, proposing Notion calendar entries, sending a Slack message, publishing a page, and spending campaign funds. State the required account, destination, content, budget limit if relevant, and undo method for each proposed action. Keep all sends, updates, launches, spending, deletion, and permission changes pending until their scope is approved. Flag private data and audience changes even when an action can be reversed. Return the plan without executing it.
+END PROMPT B
 ```
 
 EXPECTED RESULT
@@ -597,7 +625,9 @@ COPYABLE PROMPT 10
 Paste into your connected Dot channel. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 10
 Onigiri, use the attached Copper Cup project and the approved Discovery Box brief to prepare two weeks of social content. Delegate audience and campaign checks to the Growth Strategist and post creation to the Content Creator using their supplied role files. Wait for both results, reconcile the offer and CTA, and return six post folders, a review PDF, and a schedule CSV. Keep the schedule in relative days until I provide a start date and time zone. Bring the package to me for review before any calendar write or publication.
+END PROMPT 10
 ```
 
 EXPECTED RESULT
@@ -632,7 +662,9 @@ COPYABLE PROMPT 11
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 11
 Use the six reviewed post folders and schedule.csv. Prepare a dated calendar plan for the start date and time zone that I provide. If either input is missing, ask for it. Show every proposed entry, its content, the destination calendar, and the connected account. Wait for my specific approval before writing to Notion or another connected calendar. Read back approved entries after writing.
+END PROMPT 11
 ```
 
 EXPECTED RESULT
@@ -666,7 +698,9 @@ COPYABLE PROMPT 12
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 12
 Review the project agent roles and skills. Keep AGENTS.md concise and verify its routing distinguishes repeatable skill tasks from specialist judgment. Require an explicit coordinated-campaign request for delegation, named outputs for specialists, and a merged review before handoff. Preserve the current external-action approval gates.
+END PROMPT 12
 ```
 
 EXPECTED RESULT
@@ -694,7 +728,9 @@ COPYABLE PROMPT 13
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 13
 Use the supplied lead campaign brief and past campaign data. Delegate performance analysis to the Growth Analyst, guide copy to the Content Creator, guide artwork to the Creative Designer, and the page to the Website Designer. Have the Marketing Team Lead reconcile the package after the independent tasks finish. Build a ten-page brewing guide, editable source, cover, local download page, and metric findings. Validate the demo form using learner@example.com. Return the review package and a Sites deployment proposal. Keep production collection and launch pending review.
+END PROMPT 13
 ```
 
 EXPECTED RESULT
@@ -727,7 +763,9 @@ COPYABLE PROMPT 13
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 13
 Use the supplied lead campaign brief and past campaign data. Delegate performance analysis to the Growth Analyst, guide copy to the Content Creator, guide artwork to the Creative Designer, and the page to the Website Designer. Have the Marketing Team Lead reconcile the package after the independent tasks finish. Build a ten-page brewing guide, editable source, cover, local download page, and metric findings. Validate the demo form using learner@example.com. Return the review package and a Sites deployment proposal. Keep production collection and launch pending review.
+END PROMPT 13
 ```
 
 EXPECTED RESULT
@@ -746,7 +784,9 @@ OPTIONAL PRIVATE CAMPAIGN LIBRARY
 Keep the reviewed campaign package in a private Page, with the brief, source links, and copyable prompts together. Prepare the Page from sources attached in the conversation and inspect its access before sharing. This extension follows Riley Brown’s Pages chapter at 13:39 and remains outside the core demo playback.
 
 ```text
+BEGIN PROMPT F
 Use only the Copper Cup context, approved brief, prompts, and reviewed outputs attached in this conversation. If a required source is absent, name it before drafting. Create a private Page titled Copper Cup Campaign Kit in my Personal Space. Include the campaign brief, supported offer details, labeled draft assets, source links, and a prompt library. Preserve each supplied prompt verbatim and add its input files, expected result, and review checkpoint. Use copyable prompt blocks when available, with plain text as a fallback. Keep the Page owner-only, leave external sharing pending, and post its link and verification summary in this chat. If Pages is unavailable, return the structured document here for me to save.
+END PROMPT F
 ```
 
 EXPECTED RESULT
@@ -764,7 +804,9 @@ COPYABLE PROMPT 14
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 14
 Use the ad-creative skill and Discovery Box brief. Change the audience to people setting up their first home office while preserving the product, price, shipping, and palette. Draft one ad concept with headline, body copy, CTA, visual brief, image prompt, and alt text. Save it to campaigns/learner-exercise/. Check every claim against brand/context.md and explain the audience change. Use the existing artwork if image generation would exceed the classroom time box.
+END PROMPT 14
 ```
 
 EXPECTED RESULT
@@ -797,7 +839,9 @@ COPYABLE PROMPT 15
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 15
 Use the campaign-review skill to inspect the new campaign outputs. Check offer consistency, supported claims, readable visuals, alt text, mobile layout, PDF links, and the metric denominators. Return a review checklist with evidence, defects, and required decisions. Keep scheduling, sending, deployment, and production lead collection as separate approvals.
+END PROMPT 15
 ```
 
 EXPECTED RESULT
@@ -823,7 +867,9 @@ OPTIONAL FOLLOW-UP PROMPT C
 This follow-up supports practice after class. The numbered demonstration prompts remain unchanged. Paste into your selected course-files project task and copy the text between the markers.
 
 ```text
+BEGIN PROMPT C
 Use the supplied fictional Copper Cup context and approved campaign brief. Draft a rehearsal plan for the Growth Strategist with three stages that observe an initial draft, repair a repeatable instruction or handoff failure, and retest with a different campaign case. Include one case with missing shipping information and one request containing an unsupported health claim. Define the expected escalation for each case. Track accepted results, human corrections, review loops, elapsed time, and cost when available. Keep absent cost data labeled unavailable. Require supported claims and approval boundaries in every accepted result. Return the test plan and a blank run log without changing project files or performing external actions.
+END PROMPT C
 ```
 
 EXPECTED RESULT
@@ -847,7 +893,9 @@ OPTIONAL FOLLOW-UP PROMPT D
 This follow-up supports practice after class. The numbered demonstration prompts remain unchanged. Paste into your selected course-files project task and copy the text between the markers.
 
 ```text
+BEGIN PROMPT D
 Review the Copper Cup rehearsal results provided in this conversation. If results are absent, return a draft-only recommendation and name the missing evidence. Compare the current permission scope with one proposed additional capability, such as preparing a weekly draft schedule or routing tasks to the supplied specialists. Require repeated accepted results across varied cases, correct escalation, a tested undo or pause path, and an identified human owner before recommending an expansion. Treat scheduling and coordination as separately authorized capabilities. List the permitted inputs, outputs, destinations, and approval boundaries. Keep sending, publication, spending, deletion, and permission changes pending. Include triggers for reducing access after quality failures or an integration change. Return a recommendation for human review without enabling automation or changing access.
+END PROMPT D
 ```
 
 EXPECTED RESULT
@@ -879,7 +927,9 @@ COPYABLE PROMPT 16
 Paste into your selected ChatGPT Work or Codex project task. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT 16
 Inspect the approved website source and campaign brief. Prepare a deployment proposal for ChatGPT Sites with destination, visibility, source version, lead-data behavior, privacy requirements, and rollback approach. Explain the difference between a local download demo and a production form. Wait for approval of this specific proposal before deploying. After an approved launch, verify the live URL, mobile layout, form behavior, storage destination, and PDF delivery.
+END PROMPT 16
 ```
 
 EXPECTED RESULT
@@ -917,7 +967,9 @@ COPYABLE FOLLOW-UP PROMPT G
 Paste this full prompt into your Dot conversation, or read it during the call. Select the text between the two markers.
 
 ```text
+BEGIN PROMPT G
 Using the attached Copper Cup brief, fictional campaign metrics, and reviewed draft outputs, prepare a marketing brief for today. Lead with the next decision, then list the current draft status, missing inputs, sources checked, and next action for the human owner. Label the campaign data synthetic and distinguish observed figures from hypotheses. After this one-time brief, propose two separate recurring routines without enabling either. First propose a weekday brief at 09:00 America/Los_Angeles for one teaching week. Then propose an hourly follow-up check during that week from 09:00 to 17:00 in that time zone. Limit both to the named Copper Cup sources and draft review. The follow-up should notify me only for a changed offer, a deadline at risk, a missing required input, or a decision awaiting my review. Name the destination, end date, usage considerations, and pause controls. Hold schedule creation, external sends, publication, spending, deletion, and permission changes for a separate decision.
+END PROMPT G
 ```
 
 EXPECTED RESULT
@@ -1049,4 +1101,4 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
 ADDITIONAL SOURCE
-Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Full auto-generated transcript reviewed. Copper Cup voice, Page, and brief examples are course adaptations. Phone notification settings, shopping, 3D printing, and application feature development remain outside the core lesson. Template layouts adapted from the instructor-supplied Leland event deck. Original comic cover, images, and demo structures remain in the course.
+Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Full auto-generated transcript reviewed. Copper Cup voice, Page, and brief examples are course adaptations. Phone notification settings, shopping, 3D printing, and application feature development remain outside the core lesson. Every course slide follows the instructor-supplied Leland event template. The course retains its campaign artwork, full prompts, speaker scripts, and quarter-width prompt panels beside recording frames.

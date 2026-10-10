@@ -117,7 +117,7 @@ Preserve the brand palette
 | Teal | #087F8C | Accent and notebook detail. |
 | Copper | #C76A42 | Warm accent and highlights. |
 
-The workbook and course slides use yellow, cobalt, and coral comic accents. Copper Cup campaign assets retain their cream, espresso, teal, and copper palette. Keep those visual systems distinct during the exercise.
+The presentation follows the uploaded teaching template, using yellow, muted blue, white, and light gray. The workbook uses that palette for its headings and prompt panels. Copper Cup campaign assets retain their cream, espresso, teal, and copper palette.
 
 Write copy with supported claims
 
@@ -798,7 +798,7 @@ The adaptation follows her progression through Work, Codex, Dot, brand context, 
 
 Riley Brown, October 9, 2026. [Watch the additional Dot video](https://www.youtube.com/watch?v=WXhOxfPECnM). The voice, written-result, private Page, and brief extensions adapt his demonstrated concepts for Copper Cup.
 
-Ten course slides adapt selected layouts from the instructor-supplied Leland event template. The comic cover and recording panels remain in the course.
+All 38 course slides follow the instructor-supplied Leland event template. Speaker scripts, full prompts, campaign artwork, and quarter-width prompt panels beside recording frames remain available for teaching.
 
 Official tool documentation
 

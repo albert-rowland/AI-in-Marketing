@@ -50,7 +50,6 @@ Official product guidance checked October 4, 2026. https://learn.chatgpt.com/doc
 UPDATED PRODUCT GUIDANCE
 A Dot can start cloud threads and local Work or Codex tasks, then return progress in its conversation. Local files and local skills require the connected computer to stay online with the app open. A messaging connection supplies a contact channel, while app and computer connections supply separate capabilities. Official guidance checked October 10, 2026. https://learn.chatgpt.com/docs/dots
 
-
 SLIDE 04 · Accounts and access
 
 TEACHING SCRIPT
@@ -187,7 +186,6 @@ Allow 2 minutes for teaching. The clip fits within this allocation.
 SOURCES
 Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Relevant chapters begin at 02:33, 05:08, and 11:50.
 Official documentation checked October 10, 2026. https://learn.chatgpt.com/docs/dots https://learn.chatgpt.com/docs/dots/controls
-
 
 SLIDE 09 · Shared context guides the campaign
 
@@ -788,7 +786,6 @@ END PROMPT F
 EXPECTED RESULT
 A private campaign library with unchanged prompts and a link returned in the conversation.
 
-
 SLIDE 27 · Your ten-minute ad exercise
 
 TEACHING SCRIPT
@@ -944,7 +941,6 @@ https://learn.chatgpt.com/docs/sites
 CLASSROOM CLOSE
 The 60-minute core lesson ends here. The recurring brief demonstration and remaining reference slides are optional extensions. Use the workbook for follow-up practice and recording preparation.
 
-
 SLIDE 32 · A daily brief and a focused follow-up check
 
 TEACHING SCRIPT
@@ -980,7 +976,6 @@ SOURCES
 Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Relevant chapters begin at 19:13 and 21:14.
 Official documentation checked October 10, 2026. https://learn.chatgpt.com/docs/dots https://learn.chatgpt.com/docs/dots/controls
 
-
 SLIDE 33 · Account requirements and rollout
 
 TEACHING SCRIPT
@@ -1003,7 +998,6 @@ https://learn.chatgpt.com/docs/sites
 
 DOT ACCESS REFRESH
 Dot eligibility, mobile creation, local computer requirements, and delegated task controls were checked October 10, 2026. https://learn.chatgpt.com/docs/dots
-
 
 SLIDE 34 · The complete teaching-kit inventory
 
@@ -1101,4 +1095,4 @@ Grace Leung, ChatGPT Work + Dot, October 3, 2026. https://www.youtube.com/watch?
 Official product guidance checked October 4, 2026. https://learn.chatgpt.com/docs/dots
 
 ADDITIONAL SOURCE
-Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Full auto-generated transcript reviewed. Copper Cup voice, Page, and brief examples are course adaptations. Phone notification settings, shopping, 3D printing, and application feature development remain outside the core lesson. Template layouts adapted from the instructor-supplied Leland event deck. Original comic cover, images, and demo structures remain in the course.
+Riley Brown, ChatGPT Dots Is WAY More Powerful Than You Think, October 9, 2026. https://www.youtube.com/watch?v=WXhOxfPECnM Full auto-generated transcript reviewed. Copper Cup voice, Page, and brief examples are course adaptations. Phone notification settings, shopping, 3D printing, and application feature development remain outside the core lesson. Every course slide follows the instructor-supplied Leland event template. The course retains its campaign artwork, full prompts, speaker scripts, and quarter-width prompt panels beside recording frames.

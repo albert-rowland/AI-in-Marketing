@@ -14,7 +14,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p4"
+    "nativeSlideId": "p4",
+    "videoFrameObjectId": "tpl_p4_video_frame",
+    "promptPanelObjectId": "tpl_p4_promptpanel"
   },
   {
     "slide": 8,
@@ -31,7 +33,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "refresh_voice_20261010"
+    "nativeSlideId": "refresh_voice_20261010",
+    "videoFrameObjectId": "tpl_refresh_voice_20261010_video_frame",
+    "promptPanelObjectId": "tpl_refresh_voice_20261010_promptpanel"
   },
   {
     "slide": 9,
@@ -48,7 +52,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p7"
+    "nativeSlideId": "p7",
+    "videoFrameObjectId": "tpl_p7_video_frame",
+    "promptPanelObjectId": "tpl_p7_promptpanel"
   },
   {
     "slide": 10,
@@ -65,7 +71,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p8"
+    "nativeSlideId": "p8",
+    "videoFrameObjectId": "tpl_p8_video_frame",
+    "promptPanelObjectId": "tpl_p8_promptpanel"
   },
   {
     "slide": 11,
@@ -82,7 +90,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p9"
+    "nativeSlideId": "p9",
+    "videoFrameObjectId": "tpl_p9_video_frame",
+    "promptPanelObjectId": "tpl_p9_promptpanel"
   },
   {
     "slide": 13,
@@ -99,7 +109,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p11"
+    "nativeSlideId": "p11",
+    "videoFrameObjectId": "tpl_p11_video_frame",
+    "promptPanelObjectId": "tpl_p11_promptpanel"
   },
   {
     "slide": 14,
@@ -116,7 +128,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p12"
+    "nativeSlideId": "p12",
+    "videoFrameObjectId": "tpl_p12_video_frame",
+    "promptPanelObjectId": "tpl_p12_promptpanel"
   },
   {
     "slide": 18,
@@ -133,7 +147,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p15"
+    "nativeSlideId": "p15",
+    "videoFrameObjectId": "tpl_p15_video_frame",
+    "promptPanelObjectId": "tpl_p15_promptpanel"
   },
   {
     "slide": 19,
@@ -150,7 +166,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p16"
+    "nativeSlideId": "p16",
+    "videoFrameObjectId": "tpl_p16_video_frame",
+    "promptPanelObjectId": "tpl_p16_promptpanel"
   },
   {
     "slide": 20,
@@ -167,7 +185,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p17"
+    "nativeSlideId": "p17",
+    "videoFrameObjectId": "tpl_p17_video_frame",
+    "promptPanelObjectId": "tpl_p17_promptpanel"
   },
   {
     "slide": 22,
@@ -184,7 +204,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p18"
+    "nativeSlideId": "p18",
+    "videoFrameObjectId": "tpl_p18_video_frame",
+    "promptPanelObjectId": "tpl_p18_promptpanel"
   },
   {
     "slide": 23,
@@ -201,7 +223,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p19"
+    "nativeSlideId": "p19",
+    "videoFrameObjectId": "tpl_p19_video_frame",
+    "promptPanelObjectId": "tpl_p19_promptpanel"
   },
   {
     "slide": 24,
@@ -218,7 +242,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p20"
+    "nativeSlideId": "p20",
+    "videoFrameObjectId": "tpl_p20_video_frame",
+    "promptPanelObjectId": "tpl_p20_promptpanel"
   },
   {
     "slide": 26,
@@ -235,7 +261,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p22"
+    "nativeSlideId": "p22",
+    "videoFrameObjectId": "tpl_p22_video_frame",
+    "promptPanelObjectId": "tpl_p22_promptpanel"
   },
   {
     "slide": 28,
@@ -252,7 +280,9 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p24"
+    "nativeSlideId": "p24",
+    "videoFrameObjectId": "tpl_p24_video_frame",
+    "promptPanelObjectId": "tpl_p24_promptpanel"
   },
   {
     "slide": 31,
@@ -269,14 +299,16 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "p25"
+    "nativeSlideId": "p25",
+    "videoFrameObjectId": "tpl_p25_video_frame",
+    "promptPanelObjectId": "tpl_p25_promptpanel"
   },
   {
     "slide": 32,
     "prompt": "G",
     "recording_file": "G-brief-followup-plan.mp4",
     "seconds": 75,
-    "checklist": "Suggested clip length 75 seconds.\nAttach the fictional brief, metric snapshot, and reviewed draft outputs. Paste Follow-up G into Onigiri’s conversation. Show the decision at the top of the brief and the source references. Highlight the proposed time zone, end date, alert conditions, and disabled status. Show where Activity and Scheduled can be inspected. Finish before enabling either routine.\nRecord at 1920 by 1080. Hide unrelated chats and account details. Cut generation waiting time and hold the checked result for five seconds.",
+    "checklist": "Suggested clip length 75 seconds.\nAttach the fictional brief, metric snapshot, and reviewed draft outputs. Paste Follow-up G into Onigiri\u2019s conversation. Show the decision at the top of the brief and the source references. Highlight the proposed time zone, end date, alert conditions, and disabled status. Show where Activity and Scheduled can be inspected. Finish before enabling either routine.\nRecord at 1920 by 1080. Hide unrelated chats and account details. Cut generation waiting time and hold the checked result for five seconds.",
     "expected_result": "A decision-first brief and two schedule proposals awaiting review.",
     "teaching_minutes": 0,
     "video_frame": {
@@ -286,6 +318,8 @@
       "height_pt": 381.375
     },
     "prompt_width_pt": 226,
-    "nativeSlideId": "refresh_brief_20261010"
+    "nativeSlideId": "refresh_brief_20261010",
+    "videoFrameObjectId": "tpl_refresh_brief_20261010_video_frame",
+    "promptPanelObjectId": "tpl_refresh_brief_20261010_promptpanel"
   }
 ]
