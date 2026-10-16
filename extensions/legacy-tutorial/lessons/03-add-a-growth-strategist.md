@@ -1,6 +1,6 @@
 # 03 · Add a Growth Strategist
 
-[← Course home](../README.md) · [Prompt index](../prompts/README.md)
+[← Course home](../../../README.md) · [Prompt index](../../../prompts/README.md)
 
 Delegate a strategy decision and check its reasoning against the synthetic campaign data.
 

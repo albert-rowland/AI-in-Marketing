@@ -1,15 +1,18 @@
 # Give your marketing agents clear operating boundaries
 
+This is a prepared advanced reference from the earlier tutorial. Begin the current course with the empty-project guide and prompts 01–10.
+
+
 [← Return to the course](../README.md)
 
 Use these optional follow-ups after completing the numbered lessons. Open the supplied `course-files` folder in your available ChatGPT Work or Codex project, then paste one prompt into a new task. These prompts draft plans for review and leave account connections and permissions unchanged.
 
 | Follow-up | Use after | Prepare | Check before continuing |
 | --- | --- | --- | --- |
-| [A · Role contract](../prompts/follow-ups/A-role-contract.txt) | Creating the Growth Strategist with prompt 07 | A six-field description covering responsibility, inputs, allowed actions, approval, uncertainty, and completion. | Separate the lasting role from the current assignment. |
-| [B · Permission plan](../prompts/follow-ups/B-permission-plan.txt) | Preparing content with prompt 10 | A plan naming the account, destination, approved fields, and pending actions. | Approve the complete message before sending it through Slack. |
-| [C · Rehearsal plan](../prompts/follow-ups/C-rehearsal-plan.txt) | Reviewing campaign drafts with prompt 15 | Varied test cases and a blank run log. | Check missing shipping information and unsupported health claims. |
-| [D · Autonomy review](../prompts/follow-ups/D-autonomy-review.txt) | Collecting accepted rehearsal results | A recommendation for one additional capability. | Keep publishing and spending decisions with the human owner. |
+| [A · Role contract](../extensions/legacy-tutorial/prompts/follow-ups/A-role-contract.txt) | Creating the Growth Strategist with prompt 07 | A six-field description covering responsibility, inputs, allowed actions, approval, uncertainty, and completion. | Separate the lasting role from the current assignment. |
+| [B · Permission plan](../extensions/legacy-tutorial/prompts/follow-ups/B-permission-plan.txt) | Preparing content with prompt 10 | A plan naming the account, destination, approved fields, and pending actions. | Approve the complete message before sending it through Slack. |
+| [C · Rehearsal plan](../extensions/legacy-tutorial/prompts/follow-ups/C-rehearsal-plan.txt) | Reviewing campaign drafts with prompt 15 | Varied test cases and a blank run log. | Check missing shipping information and unsupported health claims. |
+| [D · Autonomy review](../extensions/legacy-tutorial/prompts/follow-ups/D-autonomy-review.txt) | Collecting accepted rehearsal results | A recommendation for one additional capability. | Keep publishing and spending decisions with the human owner. |
 
 ## Keep the role separate from the assignment
 

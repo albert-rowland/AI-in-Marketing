@@ -1,0 +1,25 @@
+# Interview and create the two files
+
+[← Return to the class guide](../START-HERE.md)
+
+These prompts belong to the single 60-minute session. Use them in the displayed order.
+
+## Prompt 01 · Interview me and create two files
+
+**Inputs**
+An empty project and your interview answers. The prompt includes a Copper Cup demo option.
+
+[Copy the full prompt](../prompts/01-interview-me-and-create-two-files.txt)
+
+```text
+Interview me with questions to create two files for my AI marketing team: brand/context.md and AGENTS.md. Ask up to four concise questions, one at a time, and wait for my answers. Cover my brand, product, price and shipping, audience, campaign goal and channels, tone and visual direction, supported claims, requested outputs, available tools, and the actions that need my approval. Group related details in each question and offer an example answer when I need help. Use facts that I provide and identify gaps instead of inventing them.
+For this class I can choose the Copper Cup demo. If I choose it, use these fictional facts and ask me to confirm or change them. Copper Cup Coffee sells a Discovery Box containing three 100 g bags, one light roast, one medium roast, and one dark roast, for USD 29 plus USD 5 shipping. The audience hypothesis is busy professionals brewing coffee at home. The CTA is Explore the Discovery Box. The voice is warm, specific, and restrained. The palette is cream #FAF4EA, espresso #2B2118, teal #087F8C, and copper #C76A42. The class goal is a reviewed ad concept and a small coordinated campaign package. Certifications, health benefits, sustainability claims, awards, testimonials, discounts, and performance promises require supporting sources.
+After the interview, summarize confirmed facts and open questions, then create only the two named files. Put brand facts, audience hypotheses, voice, visuals, CTA, and a Current campaign section in brand/context.md. Put source-reading rules, role and skill routing, named draft output folders, missing-input handling, and human review boundaries in AGENTS.md. Project instructions operate within app permissions and higher-priority instructions. Show both saved paths and a short summary. Explain .md as a text document with headings in one sentence. Ask me to begin a fresh local Codex project chat before prompt 02 so the new instructions load. In Work, attach the files and explicitly request that they be read. Stop before creating skills, role cards, or campaign outputs.
+Keep this classroom task inside the selected project. Prepare draft files only. Hold external sends, publication, scheduling, spending, deletion, and permission changes for a separate human decision. If file tools are unavailable, return downloadable files or full copyable text and name the missing file access. Report saved files separately from proposals.
+```
+
+**Expected result**
+`brand/context.md`, `AGENTS.md`.
+
+**Check before continuing**
+Open the two files and confirm that your answers appear accurately. Find the Current campaign section and the human review boundary.

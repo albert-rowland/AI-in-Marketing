@@ -1,0 +1,12 @@
+COPPER CUP FICTIONAL CLASSROOM FACTS
+
+Brand: Copper Cup Coffee.
+Product: Discovery Box with three 100 g bags, one light roast, one medium roast, one dark roast.
+Price: USD 29 plus USD 5 shipping.
+Audience hypothesis: busy professionals brewing coffee at home.
+Voice: warm, specific, restrained.
+CTA: Explore the Discovery Box.
+Palette: cream #FAF4EA, espresso #2B2118, teal #087F8C, copper #C76A42.
+Claims requiring sources: certifications, sustainability, health benefits, awards, testimonials, discounts, and performance promises.
+
+Prompt 01 includes these facts and creates the first Markdown file.

@@ -1,10 +1,12 @@
 # Build Your AI Marketing Team with Agents
 
-![The uploaded teaching template with the AI marketing course title](assets/course-cover.png)
+![The single-session AI marketing course](assets/course-cover.png)
 
-**A 60-minute beginner course with a guided exercise.** Build a fictional Copper Cup Coffee campaign using ChatGPT Work, Onigiri (Personalized ChatGPT Dot), Codex, reusable skills, and specialist agents.
+**One 60-minute class with a ten-minute guided exercise.** Interview AI to create your brand context and project instructions, then create a skill, define six roles, and coordinate a fictional marketing campaign.
 
-## Download your course materials
+## Begin with one interview
+
+Open [Start here](START-HERE.md), create an empty project, and paste prompt 01. It asks questions and creates **brand/context.md** and **AGENTS.md**. The remaining prompts run **02 through 10 in teaching order**, matching the slides and workbook.
 
 <p>
   <a href="https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/learner-workbook.pdf"><img src="assets/download-workbook.svg" width="260" height="91" alt="GET THE WORKBOOK"></a>
@@ -12,59 +14,45 @@
   <a href="https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/teaching-kit.zip"><img src="assets/download-files.svg" width="260" height="91" alt="GET ALL FILES"></a>
 </p>
 
-| Start with this | Use it for |
+| Choose your route | Open this |
 | --- | --- |
-| **[Download the complete learner workbook](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/learner-workbook.pdf)** | Follow the lessons, copy every prompt, review the sample data, and complete your exercise. |
-| **[Download the presentation PDF](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/course-deck.pdf)** | Review the template-based slides and marked demo recording slots. |
-| **[Download the teaching kit](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/teaching-kit.zip)** | Open the project files, reusable skills, agent roles, sample artwork, and prepared campaign examples. |
+| Follow the class | [Starting guide](START-HERE.md) and [ordered prompts](prompts/README.md) |
+| Read the complete lesson offline | [Learner workbook](downloads/learner-workbook.pdf) |
+| Teach the session | [Google Slides](https://docs.google.com/presentation/d/1EY7U2ZDfHXPUsubG0SyrNJdkPEbLEOhQGgygsC7SWC0), [deck PDF](downloads/course-deck.pdf), and [speaking scripts](docs/instructor-notes.md) |
+| Rehearse the interview | [Prepared Copper Cup answers](starter/interview-answer-card.txt) |
+| Compare completed files | [Prepared campaign examples](examples/README.md) |
 
-> **First visit?** Download the workbook, then open [Start here](START-HERE.md). You can follow this course without using Git commands.
+## The complete session
 
-## Your lesson path
+| Prompts | Create or demonstrate |
+| --- | --- |
+| 01 | Interview and two foundation files |
+| 02–03 | Reusable ad skill and six marketing roles |
+| 04–05 | Strategy, copy, visual direction, and visible handoffs |
+| 06 | Coordinated social drafts, page preview, metric findings, and review |
+| 07 | Onigiri through voice or chat, with written task results |
+| 08 | A private campaign Page or structured document fallback |
+| 09 | A decision-first brief and disabled routine proposals |
+| 10 | A ten-minute audience adaptation and review exercise |
 
-| Lesson | Create or learn | Open the guide |
-| --- | --- | --- |
-| 🟡 **01 · Set up your team** | Give the project context and define Onigiri's responsibility. | [Start lesson 1](lessons/01-set-up-your-team.md) |
-| 💥 **02 · Create ads and a website** | Use reusable skills to prepare a Discovery Box campaign. | [Start lesson 2](lessons/02-create-ads-and-a-website.md) |
-| 🧠 **03 · Add a Growth Strategist** | Delegate a strategy decision using supplied campaign data. | [Start lesson 3](lessons/03-add-a-growth-strategist.md) |
-| 📣 **04 · Prepare social content** | Coordinate six posts and prepare a calendar for review. | [Start lesson 4](lessons/04-prepare-social-content.md) |
-| 🤝 **05 · Run a coordinated campaign** | Give specialists separate tasks and review their combined outputs. | [Start lesson 5](lessons/05-run-a-coordinated-campaign.md) |
-| ✅ **06 · Practice and review** | Complete the ten-minute exercise and plan your next campaign. | [Start lesson 6](lessons/06-practice-and-review.md) |
+![Interview, six roles, coordinated campaign, and guided exercise layouts](assets/lesson-layout-preview.png)
 
-## Preview your teaching layouts
+## Each agent owns an output
 
-![Course agenda, voice demonstration, metric cards, and guided exercise layouts](assets/lesson-layout-preview.png)
+The Growth Strategist proposes a direction. The Content Creator drafts supported copy. The Creative Designer prepares visual direction and image prompts. The Website Designer creates a static local page. The Growth Analyst checks synthetic metrics and limitations. The Marketing Team Lead coordinates the assignments and returns a checked handoff and human decision.
 
-## Give your agents clear operating boundaries
+Local Codex uses project instructions, skills, and local agent definitions. Work uses accessible files and explicit delegation. The class labels sequential role-based drafts when separate subagents are unavailable. [Read the session and capability notes](docs/session-guide.md).
 
-The deck adds four Copper Cup examples covering lasting roles, scoped permissions, varied rehearsal, and evidence for expanding autonomy. [Open the operating guide and optional follow-up prompts](docs/agent-operating-guide.md). The learner workbook includes these concepts and four copyable follow-ups on pages 34 through 37.
+## Use reference files after your attempt
 
-## Extend your campaign with voice and written results
+The [starter folder](starter/) contains raw facts and an interview answer card. The [completed project](examples/completed-beginner-project/) shows prepared comparison files. The older [course-files project](course-files/README.md) retains advanced reference assets. Begin with your own empty project so the interview creates your foundation files.
 
-[Open the voice, Pages, and campaign brief guide](docs/dot-campaign-guide.md) to start a separate draft task, retain its written result, save a private prompt library, and propose a bounded recurring routine. Full prompts E, F, and G appear in the workbook on pages 38 through 40 and in the instructor notes. All 38 presentation slides follow the uploaded event template, including the cover and demo panels.
+Copper Cup Coffee and the campaign data are fictional. The Discovery Box contains three 100 g bags for USD 29 plus USD 5 shipping. Classroom outputs remain drafts and local previews. Sending, publication, schedules, image-generation charges, launch, spending, deletion, and permission changes require separate decisions.
 
-## Choose your route
+## Instructor resources
 
-**Learner route.** Follow the workbook or the six linked lesson guides. Each prompt explains where to paste it, which files to provide, the output to expect, and the check to complete before continuing.
+The deck has **20 teaching slides plus four reference slides**. The teaching sequence totals **60 minutes**, including the **ten-minute exercise**. [Open the timing outline](docs/deck-outline.md), [full scripts and prompts](docs/instructor-notes.md), and [recording guide](recordings/README.md). Demo layouts retain a quarter-width prompt panel beside a three-quarter-width recording frame.
 
-**Instructor route.** Open [the editable Google Slides deck](https://docs.google.com/presentation/d/1EY7U2ZDfHXPUsubG0SyrNJdkPEbLEOhQGgygsC7SWC0/edit) using the instructor account. Use its speaker notes or [the complete instructor notes](docs/instructor-notes.md) for the teaching script, complete prompts, and demo recording checklists. Replace each marked recording slot with your own capture. [Open the recording guide](recordings/README.md) and [review the deck outline](docs/deck-outline.md).
+## Sources and preserved materials
 
-**Files route.** Open [the course project](course-files/README.md) if you want the editable sources. Hidden `.agents` and `.codex` folders contain supplied definitions, so use the ZIP download when your file browser hides those folders.
-
-## The campaign you will build
-
-Copper Cup Coffee sells a fictional Discovery Box containing three 100 g coffee bags. The example price is USD 29, with USD 5 shipping. Supplied data supports classroom comparisons. Future campaign results require separate validation.
-
-Prepared examples include [three ad concepts](course-files/campaigns/discovery-box/rehearsal/ads/concepts.md), [a campaign strategy](course-files/campaigns/discovery-box/rehearsal/strategy/strategy.md), [six social post packages](course-files/campaigns/discovery-box/rehearsal/social/), and [a ten-page brewing guide](course-files/campaigns/lead-magnet/rehearsal/brewing-guide.pdf).
-
-## Account requirements and review
-
-Check [the account and connection checklist](course-files/setup-checklist.md) before beginning. The full demonstration uses Work, a visible Dot, local project access, image generation, Slack, Notion, and Sites. Feature availability depends on your account, region, app, and connections. Learners can observe unavailable features and complete the supplied ad exercise with an available project chat.
-
-Keep the classroom outputs as drafts and local previews. Review any proposed scheduling, sending, deployment, lead collection, or spending before authorizing that action. The supplied download form validates an example address and opens a PDF, with production storage and email delivery outside the demonstration.
-
-## Credits and updates
-
-The teaching order adapts [Grace Leung's original tutorial](https://www.youtube.com/watch?v=BzS93V2zFTg). This course uses a fictional coffee company, new artwork, the uploaded teaching template, and supplied practice data. [Read the sources and adaptation notes](course-files/sources.md).
-
-Course materials were prepared on October 4, 2026, with operating concepts added on October 6 and the template and Dot extensions added on October 10. Dot access, local connection requirements, and delegated-task controls were refreshed October 10, 2026. Refresh account requirements and product instructions before teaching another session.
+The course adapts examples from Grace Leung and Riley Brown and uses the uploaded Leland event template. The October 15, 2026 revision keeps the interview short and includes medium and advanced demonstrations within the single session. [Read the full course sources](docs/sources.md). [Earlier tutorial materials](extensions/legacy-tutorial/README.md) remain available as references with their earlier numbering.

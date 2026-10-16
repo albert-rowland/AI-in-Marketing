@@ -1,46 +1,32 @@
-# Course outline
+# Single-session teaching outline
 
 [← Return to the course](../README.md)
 
-Slides 1 through 31 fill the 60-minute lesson, including the ten-minute guided exercise. Slides 32 through 38 provide optional extensions and references. Recording playback fits within each slide allocation. The seven lettered follow-ups support demonstrations or practice after class.
+Slides 1–20 total 60 minutes, including the ten-minute exercise at slide 18. Slides 21–24 provide reference details. All ten prompts appear during this session.
 
-| Slide | Topic | Teaching minutes | Prompt |
+| Slide | Teaching purpose | Prompt | Minutes |
 | --- | --- | --- | --- |
-| 01 | Build Your AI Marketing Team with Agents | 1 |  |
-| 02 | Your 60-minute course route | 1 |  |
-| 03 | Work, Codex, and Dot | 1 |  |
-| 04 | Accounts and access | 2 |  |
-| 05 | Onigiri receives the campaign role | 1 | 02 |
-| 06 | One lead and five specialists | 1 |  |
-| 07 | Copper Cup campaign context | 2 | 01 |
-| 08 | Voice starts the task and leaves a written result | 2 | Follow-up E |
-| 09 | Shared context guides the campaign | 2 | 01 |
-| 10 | A reusable skill gives ads a process | 2 | 03 |
-| 11 | One brief produces three ad concepts | 2 | 04 |
-| 12 | Three angles, one supported offer | 2 | 04 |
-| 13 | The website skill keeps the offer consistent | 2 | 05 |
-| 14 | Onigiri hands off the offer page | 3 | 06 |
-| 15 | Skills and agents serve different decisions | 2 |  |
-| 16 | A small skill library covers this campaign | 2 |  |
-| 17 | Give each agent a lasting role | 1 | Follow-up A |
-| 18 | The Growth Strategist gains a clear role | 2 | 07 |
-| 19 | A growth goal becomes a testable plan | 2 | 08 |
-| 20 | The Content Creator prepares review assets | 1 | 09 |
-| 21 | Limit access to the campaign’s needs | 1 | Follow-up B |
-| 22 | A Slack request coordinates specialists | 2 | 10 |
-| 23 | Six drafts become a proposed schedule | 2 | 11 |
-| 24 | Routing gives each request an owner | 2 | 12 |
-| 25 | Campaign data guides the next hypothesis | 2 | 13 |
-| 26 | The team builds a guide and download page | 3 | 13 |
-| 27 | Your ten-minute ad exercise | 10 | 14 |
-| 28 | A review names the next revision | 1 | 15 |
-| 29 | Rehearse, repair, and retest | 1 | Follow-up C |
-| 30 | Expand autonomy after evidence | 1 | Follow-up D |
-| 31 | A launch proposal defines the next steps | 1 | 16 |
-| 32 | A daily brief and a focused follow-up check | Optional extension | Follow-up G |
-| 33 | Account requirements and rollout | Optional extension |  |
-| 34 | The complete teaching-kit inventory | Optional extension |  |
-| 35 | Prompt sequence and demo shortcuts | Optional extension |  |
-| 36 | Agent roles and routing reference | Optional extension |  |
-| 37 | Troubleshooting and rehearsal paths | Optional extension |  |
-| 38 | Sources and adaptation credits | Optional extension |  |
+| 01 | Build Your AI Marketing Team with Agents |  | 1 |
+| 02 | Your single-session course route |  | 1 |
+| 03 | Interview me and create two files | 01 | 4 |
+| 04 | Inspect the two interview outputs |  | 1 |
+| 05 | Skills, roles, and assignments |  | 2 |
+| 06 | Create the reusable ad skill | 02 | 3 |
+| 07 | One lead and five specialists |  | 2 |
+| 08 | Create the marketing team roles | 03 | 3 |
+| 09 | The strategist chooses an ad direction | 04 | 3 |
+| 10 | Copy and design use a visible handoff | 05 | 4 |
+| 11 | A handoff includes sources and an output |  | 1 |
+| 12 | One campaign goal coordinates the team | 06 | 7 |
+| 13 | The review checks outputs and decisions |  | 2 |
+| 14 | Onigiri coordinates through voice and chat | 07 | 4 |
+| 15 | A private Page keeps the campaign together | 08 | 3 |
+| 16 | A brief leads with the next decision | 09 | 3 |
+| 17 | Your ten-minute guided exercise |  | 1 |
+| 18 | Adapt and review your campaign concept | 10 | 10 |
+| 19 | A reviewed result includes evidence |  | 2 |
+| 20 | Open Q&A and next decisions |  | 3 |
+| 21 | Files created during this session |  | Reference |
+| 22 | A role definition and an active assignment |  | Reference |
+| 23 | Accounts and tool access |  | Reference |
+| 24 | Sources and course adaptation |  | Reference |

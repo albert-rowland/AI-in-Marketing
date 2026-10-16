@@ -1,5 +1,8 @@
 # Your course project
 
+This is a prepared advanced reference from the earlier tutorial. Begin the current course with the empty-project guide and prompts 01–10.
+
+
 [← Return to the course](../README.md)
 
 Open this folder as the primary project for local Codex. In Work, attach the folder or the files listed in the lesson guide. All prompt file paths begin here.
@@ -7,15 +10,15 @@ Open this folder as the primary project for local Codex. In Work, attach the fol
 | Folder or file | Your use |
 | --- | --- |
 | [brand/context.md](brand/context.md) | Read the fictional product, audience, offer, palette, and claims. |
-| [briefs/](briefs/) | Choose the Discovery Box or brewing-guide campaign. |
-| [data/](data/) | Compare four synthetic campaigns using the supplied definitions. |
-| [agents/](agents/) | Read six portable specialist and team-lead role cards. |
-| [.codex/agents/](.codex/agents/) | Load project-scoped agent definitions in local Codex. |
-| [.agents/skills/](.agents/skills/) | Read eight reusable task specifications. |
-| [prompts/](prompts/) | Copy the sixteen course prompts. |
-| [assets/](assets/) | Reuse the supplied fictional coffee artwork. |
-| [campaigns/discovery-box/rehearsal/](campaigns/discovery-box/rehearsal/) | Inspect prepared ads, strategy, social posts, and offer page. |
-| [campaigns/lead-magnet/rehearsal/](campaigns/lead-magnet/rehearsal/) | Inspect the brewing guide, calculations, and download page. |
+| [briefs/](briefs) | Choose the Discovery Box or brewing-guide campaign. |
+| [data/](data) | Compare four synthetic campaigns using the supplied definitions. |
+| [agents/](agents) | Read six portable specialist and team-lead role cards. |
+| [.codex/agents/](.codex/agents) | Load project-scoped agent definitions in local Codex. |
+| [.agents/skills/](.agents/skills) | Read eight reusable task specifications. |
+| [prompts/](prompts) | Copy the sixteen course prompts. |
+| [assets/](assets) | Reuse the supplied fictional coffee artwork. |
+| [campaigns/discovery-box/rehearsal/](campaigns/discovery-box/rehearsal) | Inspect prepared ads, strategy, social posts, and offer page. |
+| [campaigns/lead-magnet/rehearsal/](campaigns/lead-magnet/rehearsal) | Inspect the brewing guide, calculations, and download page. |
 | [AGENTS.md](AGENTS.md) | Read context, routing, output, and review instructions. |
 
 ## Preview the campaign examples

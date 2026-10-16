@@ -1,0 +1,18 @@
+COPPER CUP INTERVIEW ANSWER CARD
+
+Use these prepared fictional answers during prompt 01.
+
+Brand and offer
+Copper Cup Coffee sells a Discovery Box with three 100 g bags, one light, one medium, and one dark roast. USD 29 plus USD 5 shipping. Audience hypothesis: busy professionals who brew coffee at home.
+
+Campaign assignment
+Create one reviewed Instagram ad concept, then a small coordinated package with social copy, visual direction, a static offer-page preview, synthetic-data findings, and a checked handoff. Save the first ad in campaigns/discovery-box/run-01/ and the full package in coordinated-01/.
+
+Voice and visual direction
+Use warm, specific, and restrained language. Cream #FAF4EA, espresso #2B2118, teal #087F8C, copper #C76A42. The CTA is Explore the Discovery Box. Product facts need sources. Certifications, health claims, sustainability claims, awards, testimonials, discounts, and performance promises remain unsupported.
+
+Tools and boundaries
+Local Codex or Work with accessible files and supported delegation. Dot, voice, Pages, and routines depend on available account access. Produce drafts and local previews. Hold sending, publication, schedules, image-generation charges, spending, deletion, and permission changes for separate decisions.
+
+After the interview
+Open the two files and confirm the answers. Begin a fresh local project chat before prompt 02, or attach and explicitly read the files in Work.

@@ -1,12 +1,15 @@
 # Use voice, Pages, and campaign briefs
 
+This is a prepared advanced reference from the earlier tutorial. Begin the current course with the empty-project guide and prompts 01–10.
+
+
 [← Return to the course](../README.md)
 
 These extensions adapt Riley Brown’s October 9 video for Copper Cup Coffee. Keep the supplied fictional sources and draft review boundaries. Voice can provide the instruction, while a written result lets you inspect the task afterward.
 
 ## E · Delegate a draft through voice
 
-Open the prepared Copper Cup project on the connected computer and keep the app online. Open Onigiri’s conversation and start a call, or use text when voice is unavailable. Paste [the complete voice handoff prompt](../prompts/follow-ups/E-voice-codex-handoff.txt), or read it aloud. The prompt explicitly requests a separate Codex task in the prepared project.
+Open the prepared Copper Cup project on the connected computer and keep the app online. Open Onigiri’s conversation and start a call, or use text when voice is unavailable. Paste [the complete voice handoff prompt](../extensions/legacy-tutorial/prompts/follow-ups/E-voice-codex-handoff.txt), or read it aloud. The prompt explicitly requests a separate Codex task in the prepared project.
 
 Inspect the task link and status that appear in the Dot conversation. After completion, check the saved handoff against the brief, including three 100 g bags, USD 29, and USD 5 shipping. A running status describes progress, while completion needs a checked output. If local access is absent, the prompt returns a draft in the conversation.
 
@@ -14,13 +17,13 @@ Use the checked handoff before continuing to the original shared-context and ad 
 
 ## F · Save a private campaign library
 
-Attach the approved brief, context, numbered prompts, and reviewed draft outputs to the Dot conversation. Paste [the private campaign library prompt](../prompts/follow-ups/F-private-campaign-library.txt). Inspect the Page’s source links, offer details, draft labels, and full prompts. Copyable prompt blocks can support reuse when the feature is available.
+Attach the approved brief, context, numbered prompts, and reviewed draft outputs to the Dot conversation. Paste [the private campaign library prompt](../extensions/legacy-tutorial/prompts/follow-ups/F-private-campaign-library.txt). Inspect the Page’s source links, offer details, draft labels, and full prompts. Copyable prompt blocks can support reuse when the feature is available.
 
 The prompt requests an owner-only Page in Personal Space and leaves external sharing pending. It returns structured text when Pages is unavailable. After reviewing the Page, use its copied prompt and attached input files for the next campaign task. A private Page is a reference library, while a public Site has a separate audience and launch decision.
 
 ## G · Draft a brief before enabling a routine
 
-Attach the fictional brief, metric snapshot, and reviewed outputs. Paste [the marketing brief prompt](../prompts/follow-ups/G-marketing-brief-plan.txt). Review the next decision at the top, source references, missing inputs, and draft status.
+Attach the fictional brief, metric snapshot, and reviewed outputs. Paste [the marketing brief prompt](../extensions/legacy-tutorial/prompts/follow-ups/G-marketing-brief-plan.txt). Review the next decision at the top, source references, missing inputs, and draft status.
 
 The prompt then proposes a weekday brief and an hourly follow-up check, keeping both disabled. The weekday brief summarizes current status at a chosen time. The follow-up checks named conditions and alerts you for a changed offer, deadline risk, missing input, or pending decision. Restrict the sources and actions to the Copper Cup exercise.
 

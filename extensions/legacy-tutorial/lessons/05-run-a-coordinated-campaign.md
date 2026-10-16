@@ -1,6 +1,6 @@
 # 05 · Run a coordinated campaign
 
-[← Course home](../README.md) · [Prompt index](../prompts/README.md)
+[← Course home](../../../README.md) · [Prompt index](../../../prompts/README.md)
 
 Clarify routing and coordinate specialists to prepare a brewing guide, artwork, findings, and a local download page.
 

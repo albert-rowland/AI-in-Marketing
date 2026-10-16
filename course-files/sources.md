@@ -1,5 +1,8 @@
 # Sources and Adaptation
 
+This is a prepared advanced reference from the earlier tutorial. Begin the current course with the empty-project guide and prompts 01–10.
+
+
 ## Primary video
 Grace Leung, "ChatGPT Work + Dot: Build your AI Marketing Team (Agents + Skills)", October 3, 2026, 15 minutes 58 seconds.
 https://www.youtube.com/watch?v=BzS93V2zFTg

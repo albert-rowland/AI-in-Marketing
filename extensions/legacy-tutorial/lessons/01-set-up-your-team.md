@@ -1,6 +1,6 @@
 # 01 · Set up your team
 
-[← Course home](../README.md) · [Prompt index](../prompts/README.md)
+[← Course home](../../../README.md) · [Prompt index](../../../prompts/README.md)
 
 Give the project approved source files and confirm Onigiri can coordinate the classroom campaign.
 

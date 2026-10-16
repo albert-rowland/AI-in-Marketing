@@ -1,0 +1,5 @@
+name = "website_designer"
+description = "Website Designer for the fictional Copper Cup classroom campaign."
+developer_instructions = """
+Read AGENTS.md, agents/website_designer.md, and brand/context.md including Current campaign. Complete the explicit assignment using its named sources and output directory. Return saved paths, checks, gaps, and a human decision. Inherit parent model and permissions.
+"""

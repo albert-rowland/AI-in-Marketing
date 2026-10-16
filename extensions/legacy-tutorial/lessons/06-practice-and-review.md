@@ -1,6 +1,6 @@
 # 06 · Practice and review
 
-[← Course home](../README.md) · [Prompt index](../prompts/README.md)
+[← Course home](../../../README.md) · [Prompt index](../../../prompts/README.md)
 
 Complete the ten-minute audience exercise, inspect the output, and prepare a separate deployment proposal.
 
@@ -66,4 +66,4 @@ Inspect the approved website source and campaign brief. Prepare a deployment pro
 
 **Next step.** Adapt a copied project folder to your own approved brand and repeat the review process.
 
-[Return to the course downloads →](../README.md#download-your-course-materials)
+[Return to the course downloads →](../../../README.md#download-your-course-materials)

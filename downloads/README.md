@@ -1,13 +1,7 @@
-# Course downloads
+# Class downloads
 
 [← Return to the course](../README.md)
 
-| Download slot | File | Use |
-| --- | --- | --- |
-| Complete learner workbook | learner-workbook.pdf | Full prompts, sample data, lesson steps, exercises, and next steps. |
-| Presentation PDF | course-deck.pdf | Course slides with labeled video recording placeholders. |
-| Teaching kit | teaching-kit.zip | Editable project files, agent roles, skills, prompts, and prepared examples. |
+The workbook contains the single-session flow, all ten prompts, interview answers, synthetic data, prepared examples, and the guided exercise. The deck PDF contains 20 teaching slides and four references. The teaching kit includes prompt files, examples, role and skill definitions, reference assets, and recording guidance.
 
-The presentation includes labeled spaces for instructor recordings. A static PDF preserves those placeholders while the editable deck can contain the recordings. Download the deck PDF after an instructor replaces the recordings if you need a refreshed slide reference.
-
-All three downloads contain the course materials. The presentation PDF fills the deck download slot and retains the 15 recording placeholders. The ZIP includes both PDFs, the complete teaching notes, prompts, sample data, agent definitions, skills, and prepared examples.
+Begin with an empty project and the interview prompt.

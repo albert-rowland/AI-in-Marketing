@@ -1,6 +1,6 @@
 # 04 · Prepare social content
 
-[← Course home](../README.md) · [Prompt index](../prompts/README.md)
+[← Course home](../../../README.md) · [Prompt index](../../../prompts/README.md)
 
 Prepare six post packages and a dated calendar proposal that you can review before any calendar write.
 

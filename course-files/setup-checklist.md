@@ -1,5 +1,8 @@
 # Setup Checklist
 
+This is a prepared advanced reference from the earlier tutorial. Begin the current course with the empty-project guide and prompts 01–10.
+
+
 Dot access and connection requirements were refreshed October 10, 2026. The remaining tutorial tools retain their October 4 checks. Product interfaces and eligibility can change.
 
 ## Required for the instructor's full demonstration

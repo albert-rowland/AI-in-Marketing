@@ -1,41 +1,32 @@
-# Start here
+# Your single 60-minute class
 
 [← Return to the course](README.md)
 
-## 1 · Download and open
+## Begin with the interview
 
-Download the [learner workbook](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/learner-workbook.pdf) for the complete course. Download the [teaching kit](https://github.com/albert-rowland/AI-in-Marketing/raw/refs/heads/main/downloads/teaching-kit.zip) when you want to try the prompts yourself. On GitHub, the green Code menu also offers Download ZIP for the whole repository.
+Create an empty copper-cup-class folder and open it in local Codex with file editing permitted, or begin a fresh Work workspace with file tools. Paste [the complete interview prompt](prompts/01-interview-me-and-create-two-files.txt). Answer the interview to create brand/context.md and AGENTS.md. Choose the Copper Cup demo if you want to follow the supplied examples.
 
-Extract the downloaded ZIP into a folder you can find. Inside ai-marketing-course, open course-files as your project folder. This project contains `brand`, `briefs`, `data`, `agents`, `.agents`, and `.codex`. Open the folder containing `AGENTS.md` as your local Codex project. In Work, attach the folder or the specific files a lesson requests.
+Open the two files and confirm the answers. Markdown is a text format with headings. The context file contains the brand and Current campaign section, while AGENTS.md supplies project guidance. Begin a fresh local project chat before prompt 02 so its instructions load. In Work, attach and explicitly read the files.
 
-## 2 · Check your access
+## Follow the ten prompts
 
-Open the [setup checklist](course-files/setup-checklist.md) and confirm your available features. A visible Dot supports the instructor's orchestration demonstration. Slack, Notion, Sites, and local files each need their own access or connection.
+| Unit | Prompts | Class guide |
+| --- | --- | --- |
+| 01 | 01 | [Interview and create the two files](lessons/01-interview-and-create-two-files.md) |
+| 02 | 02, 03 | [Create a skill and the six roles](lessons/02-create-skills-and-agent-roles.md) |
+| 03 | 04, 05 | [Run the specialist assignments](lessons/03-run-the-specialist-assignments.md) |
+| 04 | 06 | [Coordinate the full marketing team](lessons/04-coordinate-the-full-team.md) |
+| 05 | 07, 08, 09 | [Use Dot, Pages, and campaign briefs](lessons/05-connect-dot-pages-and-briefs.md) |
+| 06 | 10 | [Complete the guided exercise](lessons/06-guided-exercise-and-review.md) |
 
-If a feature is unavailable, use the prepared campaign examples and continue with the ad exercise. An available project chat can receive the brand brief, campaign brief, and ad skill instructions.
+## Inspect the results
 
-## 3 · Paste one prompt
+The core team includes a Marketing Team Lead, Growth Strategist, Content Creator, Creative Designer, Website Designer, and Growth Analyst. Role files describe responsibilities, while explicit assignments start tasks. Inspect actual task activity or a labeled sequential fallback and open the saved output.
 
-Begin with [Lesson 1](lessons/01-set-up-your-team.md). Open the indicated app and project, provide the listed input files, then copy the complete prompt text from its box. Paste it into the app's message field and submit it once.
+The Dot/voice, private Page, and recurring-brief demonstrations belong to this session. Use prepared captures or a structured document fallback if an account lacks a capability. Keep schedules disabled and external actions pending review.
 
-Wait for the result, open the returned files, and complete the lesson's review check. Continue to the next prompt after resolving missing inputs or output defects. Keep this guide open beside the app during practice.
+## Complete the exercise
 
-## 4 · Finish the guided exercise
+Prompt 10 receives ten minutes. Change the audience, preserve the supported offer, trace one claim, and choose one revision. The original context and campaign runs stay intact for comparison.
 
-[Lesson 6](lessons/06-practice-and-review.md) changes the campaign audience to people setting up their first home office. Use the supplied artwork if image generation would exceed ten minutes. Compare the finished concept against the product, price, shipping, and claim checklist.
-
-## 5 · Adapt a campaign
-
-After completing the course, copy the project folder for your own campaign. Update the brand context and brief before changing prompts. Replace fictional data with approved campaign data and preserve the metric definitions. Review the outputs before authorizing an external action.
-
-## Find the files you need
-
-| Your question | Open this |
-| --- | --- |
-| Where are the full prompts? | [Prompt index](prompts/README.md) |
-| Which file explains the brand? | [Brand context](course-files/brand/context.md) |
-| Where is the Discovery Box brief? | [Campaign brief](course-files/briefs/discovery-box-campaign.md) |
-| How do I check the figures? | [Metric definitions](course-files/data/metric-definitions.md) |
-| Where are the sample outputs? | [Course project guide](course-files/README.md) |
-| How do I record a demonstration? | [Recording guide](recordings/README.md) |
-| How do I fix an access issue? | [Troubleshooting](course-files/troubleshooting.md) |
+[Prepared examples](examples/README.md), [the interview answer card](starter/interview-answer-card.txt), and [account notes](docs/session-guide.md) support the class. Earlier tutorial files remain reference material with their earlier numbering.

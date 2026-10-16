@@ -1,6 +1,6 @@
 # 02 · Create ads and a website
 
-[← Course home](../README.md) · [Prompt index](../prompts/README.md)
+[← Course home](../../../README.md) · [Prompt index](../../../prompts/README.md)
 
 Create reusable task instructions, then use them for three ad concepts and a local offer page.
 
